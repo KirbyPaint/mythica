@@ -17,6 +17,7 @@ _This modpack is a custom blend of old favorites and new discoveries. Explore My
 - <a href="#setup-and-installation-requirements">Setup/Installation Requirements</a>
   - <a href="#cloning-with-git">Cloning with Git</a>
   - <a href="#standard-download">Standard Download</a>
+- <a href="#installing-mods">Installing Mods</a>
 - <a href="#modpack-contents">Modpack Contents</a>
   - <a href="#mods">Mods</a>
   - <a href="#configuration-folder">Configuration Folder</a>

@@ -48,7 +48,7 @@ _This modpack is a custom blend of old favorites and new discoveries. Explore My
 ### Mods
 
 <details>
-<summary>Full List of Mods</summary>
+<summary>Full List of Mods (Click to Expand)</summary>
 <br>
 <ol>
   <li><a href="https://www.curseforge.com/minecraft/mc-mods/ai-improvements">AI Improvements</a></li>

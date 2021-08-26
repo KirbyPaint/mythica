@@ -151,12 +151,14 @@ _This modpack is a custom blend of old favorites and new discoveries. Explore My
 
 ### Configuration Folder
 
-- This is an optional folder featuring my configuration details. For the best experience, it's recommended to NOT install this folder, as installing the mods will automatically generate all required `config` folders and files.
+- This is an optional folder featuring server configuration details. For the best experience, it's recommended to NOT install this folder, as installing the mods will automatically generate all required `config` folders and files.
+- This is good for if you want a copy of the server environment, but it will not come with a copy of the server world file.
 - Note: since it's part of this repository, it will be downloaded automatically with the mods. Just delete it if you don't want it.
 
 ### Controls
 
-- This is the optional `options.txt` file. This file lies in your main `.minecraft` directory, and it will set the controls. As of August 21st, 2021, this file is incomplete and not standardized. This is a copy of MY (KirbyPaint's) configuration file, and will be later updated to be the recommended starting controls as we define them throughout playing.
+- This is the optional `options.txt` file. This file lies in your main `.minecraft` directory, and it will set the keybinds. 
+- As of 8/25/2021, this is a copy of Forest's configuration file, and will be the default keybinds that he uses.
 - As controls are highly personalized, this is an optional file, but it may be easier to stick with a standard control scheme for troubleshooting help.
 - Note: since it's part of this repository, it will be downloaded automatically with the mods. Just delete it if you don't want it.
 

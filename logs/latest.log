@@ -8421,3 +8421,309 @@ java.lang.Exception: null
 [17Apr2022 13:42:55.250] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityButterfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
 [17Apr2022 13:45:21.203] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KirbyPaint lost connection: Disconnected
 [17Apr2022 13:45:21.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KirbyPaint left the game
+[17Apr2022 13:46:16.514] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 13:46:16.756] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 13:46:16.986] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 13:46:17.220] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 13:51:16.509] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 13:51:16.763] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 13:51:16.993] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 13:51:17.222] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 13:56:16.523] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 13:56:16.792] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 13:56:17.040] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 13:56:17.282] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:01:16.501] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:01:16.739] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:01:16.969] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:01:17.241] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:06:16.502] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:06:16.745] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:06:16.976] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:06:17.206] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:11:16.499] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:11:16.819] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:11:17.094] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:11:17.352] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:16:16.516] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:16:16.746] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:16:16.962] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:16:17.177] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:21:16.501] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:21:16.732] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:21:16.971] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:21:17.221] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:24:28.700] [Netty Epoll Server IO #10/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[17Apr2022 14:24:29.081] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KirbyPaint is 5e838a14-f227-4a1b-b211-aca42f2c1891
+[17Apr2022 14:24:34.447] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@58e925a7
+[17Apr2022 14:24:34.499] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KirbyPaint[/73.67.161.12:62408] logged in with entity id 1887 at (1033.9437330793276, 87.0, -8131.529941577449)
+[17Apr2022 14:24:34.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KirbyPaint joined the game
+[17Apr2022 14:24:34.556] [Server thread/INFO] [harmonised.pmmo.ProjectMMOMod/]: Project MMO version: "3.63" Latest: "3.67"
+[17Apr2022 14:24:34.760] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:spider from 491fede4-3aa3-4c62-bf30-5f96d532f7be to ff877f3c-1abc-4805-9e6f-608fb82e5877
+[17Apr2022 14:24:34.760] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:zombie from 7246342d-1a3b-4747-8e96-3b1f9212789a to 21bebfe1-6c47-458d-8b01-972e7ac5fde4
+[17Apr2022 14:24:34.761] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:zombie from 100b5400-f8c3-4378-b903-2764c343d6e4 to 21ded363-d9a1-4d72-b43d-d51e8f006f4c
+[17Apr2022 14:24:34.761] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:spider from 49481328-92d7-446d-b424-f8bea7c2d6c4 to 156bc5ed-7ff7-4052-96dc-207532e6551a
+[17Apr2022 14:24:34.762] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:bat from 214532e2-2f01-4e19-8589-9a3c9f8d70a9 to 9cee3436-219f-4290-adf1-81ba0c61081f
+[17Apr2022 14:24:34.762] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:bat from 7d96c846-d3cb-467f-9bc5-414ef4208cfe to dac59a6d-a2b0-4b67-8bc7-477d193ae8c7
+[17Apr2022 14:24:34.762] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:bat from 745bf634-c5b1-4492-9063-3361b2c519b3 to 6d962d5f-c015-4141-98e4-7e0be871758d
+[17Apr2022 14:24:34.762] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:bat from c6021bfa-93d2-486e-8a30-d28584cf3444 to e358a1d3-c292-4749-b8d0-9f81a6edd4b0
+[17Apr2022 14:26:16.706] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:26:16.937] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:26:17.167] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:26:17.396] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:27:32.156] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity VisitorCitizen['Kristopher R. Bartelot'/2027, l='ServerLevel[Mythica]', x=948.50, y=66.98, z=-8235.50]
+[17Apr2022 14:30:43.259] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.259] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.259] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.259] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.259] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.259] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CEnumParameter
+[17Apr2022 14:30:43.259] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CEnumParameter
+[17Apr2022 14:30:43.259] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.259] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CEnumParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CEnumParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CEnumParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CEnumParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.260] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.261] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.261] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.261] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.261] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.261] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:30:43.261] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class mca.entity.ZombieVillagerEntityMCA from class mca.util.network.datasync.CDataParameter
+[17Apr2022 14:31:16.702] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:31:16.985] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:31:17.222] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:31:17.451] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:33:59.750] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[17Apr2022 14:33:59.750] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[17Apr2022 14:36:16.742] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:36:17.003] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:36:17.227] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:36:17.458] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:36:41.056] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Amara'/2264, l='ServerLevel[Mythica]', x=1205.41, y=68.20, z=-8041.37] died, message: 'Amara was slain by Cyclops'
+[17Apr2022 14:36:46.101] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Tyler'/2410, l='ServerLevel[Mythica]', x=1212.97, y=68.14, z=-8045.08] died, message: 'Tyler was slain by Cyclops'
+[17Apr2022 14:36:52.450] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Isabella'/2918, l='ServerLevel[Mythica]', x=1223.72, y=66.20, z=-8025.03] died, message: 'Isabella was slain by Cyclops'
+[17Apr2022 14:41:16.723] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:41:16.963] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:41:17.199] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:41:17.429] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:46:16.626] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:46:16.850] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:46:17.070] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:46:17.325] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:51:16.630] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:51:16.853] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:51:17.079] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:51:17.292] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:55:30.339] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport due to missing waystone
+[17Apr2022 14:56:16.635] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:56:16.861] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:56:17.114] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 14:56:17.325] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:01:16.622] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:01:16.840] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:01:17.067] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:01:17.274] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:06:16.644] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:06:16.864] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:06:17.081] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:06:17.286] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:11:16.623] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:11:16.839] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:11:17.054] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:11:17.293] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:12:54.150] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=960, y=14, z=-8057}
+[17Apr2022 15:12:54.251] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=960, y=15, z=-8057}
+[17Apr2022 15:12:54.500] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=959, y=13, z=-8057}
+[17Apr2022 15:12:54.600] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=958, y=13, z=-8057}
+[17Apr2022 15:16:16.625] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:16:16.840] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:16:17.058] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:16:17.264] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:19:54.651] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 140 stacked items at position:BlockPos{x=1036, y=90, z=-8120} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[17Apr2022 15:20:06.651] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 126 stacked items at position:BlockPos{x=1036, y=90, z=-8120} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[17Apr2022 15:21:16.620] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:21:16.835] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:21:17.093] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:21:17.306] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:22:00.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KirbyPaint has made the advancement [Have a Field Day]
+[17Apr2022 15:26:16.625] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:26:16.839] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:26:17.050] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:26:17.257] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:31:16.633] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:31:16.895] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:31:17.110] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:31:17.329] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:36:16.619] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:36:16.831] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:36:17.038] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:36:17.245] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:41:16.625] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:41:16.842] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:41:17.060] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:41:17.266] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 15:44:02.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the world spawn point to 980, -8284, 66 [0.0]
+[17Apr2022 15:44:05.576] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from 5ee79cbb-7ffd-4489-bc04-4dcbc1256b09 to f9948635-1f5a-403f-9702-c002c9cfc526
+[17Apr2022 15:44:05.755] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 578d8b76-86c9-42db-a204-9710b92cfeb0 to 2cb41273-29b4-4a8a-bbe0-ba4602c22ad1
+[17Apr2022 15:44:06.049] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from be6ad6bc-f7c5-47fc-adca-7b240b835823 to 0dea9229-baa2-4993-a5e6-20531e8fa9f0
+[17Apr2022 15:44:06.050] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 27a4fdb0-66ac-47f5-be4c-fa3251d9d2ad to 7314cd03-2566-4050-a642-f48c96a105d7
+[17Apr2022 15:44:06.050] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 5a330138-cf3a-4cde-9ecb-661778c7372d to 588d1159-e78d-411e-96be-6ef3127636e2
+[17Apr2022 15:44:06.050] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 5a3ba53f-2313-4641-8c2e-89d90fa1b46e to a062c521-49f4-46d3-98aa-52a221c66ba7
+[17Apr2022 15:44:06.050] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from c0af1136-efb1-4819-82d8-5121813f2105 to 46ffa102-fb72-4b13-9e77-979cda02696a
+[17Apr2022 15:44:06.175] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from 206f9e48-483f-46a8-a3a9-7e6f721a4ecf to 1942f9cc-7e98-4de2-8345-6cd12db7ffd5
+[17Apr2022 15:44:06.269] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 6837c5d8-7665-4e24-a337-3f81d4a0427c to 05bdbc06-d781-427b-a1cf-d652310c83e8
+[17Apr2022 15:44:06.439] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 55c89153-c863-40a8-8f67-59472ba47ba3 to 403ffde8-1659-455f-b6b3-6be9a76f862e
+[17Apr2022 15:44:06.439] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from b484efd4-de8e-49c6-b7a8-44cb823d6e32 to 36934b6c-544d-4fb0-a54f-fbd53b063831
+[17Apr2022 15:44:06.471] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 8bbe4e8a-8773-4baf-a5a1-19f1d88c6045 to c54b10be-3c07-4bbe-baec-15c56163352f
+[17Apr2022 15:44:06.471] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 708176f1-bb71-448b-a049-ceee2f6adce2 to d646c6dc-da6e-4ee2-9557-c22aea25a20c
+[17Apr2022 15:44:06.482] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from 38cb530d-0333-4314-9308-8026605d39a4 to 1e17c679-e0a5-4c8a-b16c-e9b86e55d88b
+[17Apr2022 15:44:06.621] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 011b964c-8bdf-4381-a9d4-3d5af34e52e3 to b436e525-b33d-4695-aeb0-3120b20511b8
+[17Apr2022 15:44:06.735] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from 1701ba67-2558-4da3-9c72-a38b5b6d1942 to d21440ac-2cdc-4ee1-a03d-4d219818c3a8
+[17Apr2022 15:44:06.776] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from c41955a0-40e2-4412-b4e6-0a00ef50ff1f to d0cddcbb-41d1-4e21-ac56-12c59181a665
+[17Apr2022 15:44:07.063] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from 12dcb3a6-fc49-4dd8-a443-a9cd44a4d2c4 to 1afff6c8-2f53-43f3-a39b-c7e3b0a99422
+[17Apr2022 15:44:07.064] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 1e981214-12b0-4e57-8f69-88281dd06ca4 to f1ec3432-61d5-4431-836e-77ec6ee2b8b6
+[17Apr2022 15:44:07.138] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 0b882318-dd41-479b-bbab-7e598cd566d6 to b9630ea6-22fe-4586-ac66-50e31f55c447
+[17Apr2022 15:44:07.403] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from 64dc4105-edd3-4db2-955f-d4a013717266 to bead22c3-9ed3-4544-a297-4cab58941545
+[17Apr2022 15:44:07.968] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from cbf0f0a2-38d1-4b5d-87b7-cca18be95c70 to c2684502-31cf-4475-a18f-aa87d6ce0d9a
+[17Apr2022 15:44:08.074] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from cb4dec58-cc02-4213-bfab-3098044cf23d to be2680cf-d401-422f-9e05-fcdf7bfd071f
+[17Apr2022 15:44:08.131] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:goat from 46340a47-cdbb-4157-b862-192eb8b489fd to 9adb65fd-094e-472c-b333-cf3ed4539b51
+[17Apr2022 15:44:08.131] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:goat from 448f2e3f-ada6-4ab4-a764-e7efac45c3a0 to a7064859-09c8-469a-ae26-28a48b3e3244
+[17Apr2022 15:44:08.153] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from 5f87bdab-f193-4c16-b94c-c4a2a3f2aaa3 to 494e5599-f002-482e-ae1d-6dfb63690cd7
+[17Apr2022 15:44:08.168] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 7205e08b-18f6-4a4e-a20c-ff60839bc560 to 882fa583-136f-4f7e-aaaa-68e1d9e03e28
+[17Apr2022 15:44:08.168] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 92c82940-19c0-4193-925a-acf3986b1761 to c7a6a842-4bbf-4490-a6ce-76b0a4b1484a
+[17Apr2022 15:44:08.168] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from b969f1e9-587f-4e0a-92d1-d84dab870554 to 74b99718-84c2-41ad-b841-23bbafbd5035
+[17Apr2022 15:44:08.168] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from a8471131-778f-42c7-8e1a-538128c1a07e to 0295cb40-b230-4a7b-a35d-b6d841e61cfe
+[17Apr2022 15:44:08.168] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 19846c6c-fd6f-4a05-8835-62b149a64af3 to 87f11f0a-148b-404a-b35f-711e30af5647
+[17Apr2022 15:44:08.168] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 11637376-2561-4a43-a572-ad2dc12bef55 to c3bdbd45-ae3d-47ad-83bb-85eecc10b5f8
+[17Apr2022 15:44:08.168] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 4983964e-1777-4697-9496-43497e390831 to 484102e8-6638-434d-bed4-0f38becd212e
+[17Apr2022 15:44:08.168] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 6fb46273-0fe2-4988-816b-a88e2e57c205 to d98456e7-5e28-47f9-882f-81f6fc6ddc73
+[17Apr2022 15:44:08.168] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from e35e2eb3-50d1-4767-841d-f1b46c38efee to aa211c66-820e-4e00-8114-66fdec404f30
+[17Apr2022 15:44:08.238] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from cfb5eb19-3dc9-426c-bdde-4f5552e88c0f to 6dd7231a-ef6d-43c2-be21-5bf4f3a80a5f
+[17Apr2022 15:44:08.263] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from 1f87a386-1b82-46ef-910d-86d44fff4c60 to 366f39e3-f8b9-4584-8775-a0a3e8fe0684
+[17Apr2022 15:44:08.289] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from f9609f7c-196f-447c-ab7d-37a260af38b1 to a361c7bd-c6d2-4e84-8b7e-b4719e514cdd
+[17Apr2022 15:44:08.289] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 97f13ba5-9d0e-4e9f-872d-9553582a3eb7 to 21d38edb-cc21-474d-bac3-c827d7ec7fd7
+[17Apr2022 15:44:08.290] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 5299cb12-8fd3-42f3-a387-2fa25fba1022 to 3ef8fe0f-d437-454c-8950-07fa98c6f6c4
+[17Apr2022 15:44:08.344] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from 848d14a0-64a6-4e80-a053-caad15a7c61f to 7512b46f-bcc4-4fa2-8ce9-01c79e3f60cb
+[17Apr2022 15:44:08.969] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from 62dd0edf-9160-46fd-9bd1-c71991d410c9 to 593c1b36-2b00-4d3a-9e4e-aba147e9231f
+[17Apr2022 15:44:09.007] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 572ab314-9cfb-439a-be90-06f731553b89 to c06f39e7-8817-401e-8b96-ce868f14e674
+[17Apr2022 15:44:09.007] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 2182c2bb-d292-4070-b580-c93bb15e23e5 to d2af28b8-7932-4206-928d-d9795f5007ad
+[17Apr2022 15:44:09.007] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 66e55f95-6231-4394-9722-de970b472c12 to 367cc52b-f9a0-4632-9023-60accc9ddfd9
+[17Apr2022 15:44:09.277] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 7a9311f7-41f0-4d37-b03b-cc6d282b7a5b to 8acf8d01-60a5-4479-a588-cd1bb8e91760
+[17Apr2022 15:44:09.298] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from d864b0a2-2858-4219-9872-f3ac6bcb8a88 to 7506c34d-6dba-41a0-990d-0044575a7879
+[17Apr2022 15:44:09.299] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 3ad5c52e-89f6-4dc1-9fed-6bc9b5471f94 to 28e543e3-06da-48ef-8827-f0293525f4de
+[17Apr2022 15:44:09.299] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 2a9878aa-2d8b-48b9-a514-99f3371d3aeb to b4eca8f9-8a58-4b01-b5d5-7f9b8b35d2c3
+[17Apr2022 15:44:09.343] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 2baad8c7-284e-4a2a-a059-01bcdb52275b to 9b92a710-6955-45dc-bc8f-16bf56273503
+[17Apr2022 15:44:09.343] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 8c514b98-1db3-4099-a45e-2abe98af4f8c to 9415c30b-7f25-4a41-9227-bfc7398a729c
+[17Apr2022 15:44:09.499] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 4e0ce3c0-b9f6-4df1-9e73-84b780682705 to 5264c6a2-259b-4244-85c6-cc036b8cf15d
+[17Apr2022 15:44:09.617] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from cafe89ae-dc4f-474b-98e4-8e9a92262f7f to 2ede96fa-13c5-4d1e-9979-451da65977dd
+[17Apr2022 15:44:10.665] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 581d00ac-dfa4-40d3-b297-205085bb88df to 9ae65193-6d1b-4440-8192-aea06fd72aaf
+[17Apr2022 15:44:10.700] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from f31dea19-aaae-45ab-b793-fb7765d28716 to c8a1d365-283d-4dac-a099-dbba6e3ea8d3
+[17Apr2022 15:44:10.722] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from f334f092-7cdf-4de7-b9b3-6406afd5401c to 78f70e45-ceb5-4f80-bf06-dd422b7ffb6f
+[17Apr2022 15:44:10.835] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 6f6c771e-7f9f-4322-bfb0-fb498476a70e to d53ed08e-10a6-48d3-bee3-4bfac1eb4cbe
+[17Apr2022 15:44:10.899] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:goat from 5eddbdf8-ffbf-42a2-aaf8-a8e1b5d069cb to c869e2fd-58a4-43c4-a4ae-7319cd399a47
+[17Apr2022 15:44:10.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5427ms or 108 ticks behind
+[17Apr2022 15:44:11.485] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity mowziesmobs:ferrous_wroughtnaut from 0e9b7ccc-2f4b-43eb-be4f-37357f7f8610 to cfbfa0db-62b8-44cf-84fb-1f057331d652
+[17Apr2022 15:44:11.536] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 71bd7472-415a-48d2-81e1-c78003481fde to 742b6e60-56ef-4b62-8155-145ce9fa2c97
+[17Apr2022 15:44:11.575] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 0e6bf416-4a5f-40be-b52f-107698e2094b to ec80b156-60d9-47b0-8b58-733e06ec5e38
+[17Apr2022 15:44:11.575] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 6f95f17e-a38f-4b60-94b5-ed842fcb670f to 15732ffb-9bbd-49c4-b2c5-8ac4c2bf68f1
+[17Apr2022 15:44:11.575] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 0742df1b-cf84-4818-a465-f1357512861b to 5f7bfa2d-2bb7-4dd8-a6ff-e0d25e47ed8e
+[17Apr2022 15:44:12.773] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from 79e7cee4-6ec5-455f-9471-aaafa50ce600 to 5bc140c0-d01f-49e6-a60f-720dc134099c
+[17Apr2022 15:44:12.849] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from e49d5cd9-f665-4f72-a9d5-3c58a8f698c5 to a199bf33-489b-407f-af27-6e2e913e9863
+[17Apr2022 15:44:12.849] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 1ac5fe3a-8638-4e8f-afff-badeddf8d50b to 34aa9b83-c52b-4cdc-9525-f47a57a10f13
+[17Apr2022 15:44:12.849] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from a13c96e3-80b4-4d9b-8a87-b4773a863bd8 to da28e05d-d7f8-4c32-a2b4-9489434a683c
+[17Apr2022 15:44:13.001] [Worker-Main-346/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLammergeier from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[17Apr2022 15:44:13.003] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:lammergeier from 56e18b89-ba60-47e8-8852-900556778f32 to c8b5f57b-1e8a-484a-8de9-974dd3d4d283
+[17Apr2022 15:44:13.004] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:lammergeier from cea25028-ab72-4a16-b31f-4c74e80291d3 to 53e0ba47-0ce7-4750-a8c6-5457129b1692
+[17Apr2022 15:44:13.056] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from e6388938-3a3a-4706-9168-afdb70e752da to 08cb26c3-f8cb-44ea-beef-17533fe9e850
+[17Apr2022 15:44:13.480] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:goat from 02941b49-ca06-4ec9-aea9-685a24d56891 to af0e96ad-1397-488c-9bbd-59d3c1589752
+[17Apr2022 15:44:13.480] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:goat from bd5cd590-6876-416c-8b76-9e29f5f15c04 to b5f722de-5f12-4d0a-be95-55561f17d290
+[17Apr2022 15:44:13.531] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from 1571a5a1-b783-4495-a1a4-22f5962bb7fb to 54d0acf1-99de-4d6e-8a74-317f5fbc735b
+[17Apr2022 15:44:13.970] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from de317e70-db86-4ebf-a82e-46260995ff15 to 8386812d-7d0f-4b0b-813c-52a7aff7838e
+[17Apr2022 15:44:14.011] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 79e267fb-674c-47bf-9f00-4e1699a83640 to 8980b29b-9a69-40d2-9f99-8c9b0d0bf303
+[17Apr2022 15:44:14.102] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 4adc65e2-4fb8-4032-8204-d8fac63db0e5 to 31b8957a-7b3b-47e3-bbaf-3d9e60e5b049
+[17Apr2022 15:44:14.317] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from fd17e6c9-c788-452f-8876-19c902cc72d6 to 5eaffbd4-e04e-4167-ab5e-95afdcbd1893
+[17Apr2022 15:44:14.317] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 05aa64ff-5bbc-4206-ae76-951ab7ef03e5 to 458d1870-dcd0-499c-bf13-8e124e6cf2f2
+[17Apr2022 15:44:14.428] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 027ee378-297f-49e2-ae08-eb05755afa55 to af572beb-f5e7-4830-9feb-55080c506ac6
+[17Apr2022 15:44:14.429] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 68617e9e-f6af-4c66-87a2-1f510e09f2cd to 506e6022-0804-41d3-b3ef-31dff6e1bd72
+[17Apr2022 15:44:14.542] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 074e4af1-74a3-46c2-823b-b481ca94174b to 431b75d1-d745-4f07-ad4b-2532fda98f4e
+[17Apr2022 15:44:14.569] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 002b030c-f7ab-40fa-b27a-83d400497a41 to 90ba2881-5a6c-4c3a-ba17-c969c99a1be1
+[17Apr2022 15:44:14.732] [Worker-Main-348/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[17Apr2022 15:44:14.732] [Worker-Main-348/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[17Apr2022 15:44:14.745] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:horseshoecrab from 4b94f5e4-63a1-4ecf-a804-a1de89bc08f0 to 2fcb6c9d-cdaa-4715-8dc3-378358f0b54f
+[17Apr2022 15:44:14.745] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:horseshoecrab from f773d1fc-1f25-443c-ab6f-58d73312b806 to 126aebe5-cc96-4d16-9b9c-f414db6b4710
+[17Apr2022 15:44:14.745] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:horseshoecrab from 4088a90d-df99-4c8a-8a08-c26e2051ea61 to 9275640a-4ebd-4f5c-bfc5-28915046cfe2
+[17Apr2022 15:44:15.062] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 9d583daa-4749-4437-bf89-17e78f50dd1e to 5d63cb8d-b141-4fc1-b0ff-acc9d5570700
+[17Apr2022 15:44:15.062] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 75621115-6d78-47c3-8586-8ab58910f0bc to c3b960f2-9785-4b2d-9eef-a4b63ed6a094
+[17Apr2022 15:44:15.062] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 021420a8-c858-4ff0-9cea-872129fb6e79 to 2d210817-8dc2-4529-8d48-b6752592e569
+[17Apr2022 15:44:15.062] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 0b1bd6fc-658c-4f41-be7a-92fcb8564469 to 3d3899dc-0056-48b2-89cf-1c92c40c91e4
+[17Apr2022 15:44:15.062] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from c0e78b92-e9a7-4c35-b9a6-2b3062c7a88d to a3cf0a08-6275-424f-88d0-188996533034
+[17Apr2022 15:44:15.192] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:cat from 76427c74-9499-4a3f-ab92-f3103b09635e to 8044876b-b42a-4765-8650-898a0aff61c8
+[17Apr2022 15:44:15.206] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 61247c83-4fde-4d7f-b7ca-0eca43cddfdf to e909fa46-fb56-4eca-89c7-ab7ab103cc01
+[17Apr2022 15:44:15.206] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from ffceb333-7e8a-4766-9887-cb2191556194 to 702f84ea-8b2b-4e97-a318-424225539c29
+[17Apr2022 15:44:15.206] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 84cb4d06-abe0-4ef0-9017-9c9e0caf0487 to 2ac7eaa1-0a16-4341-b9da-b542bfd8d6a2
+[17Apr2022 15:44:15.285] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 36e1e7cf-7957-4045-9fff-bd2444bf068c to bce100c9-4562-43ea-a82e-df264023e562
+[17Apr2022 15:44:15.285] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from c43b3438-90b3-49f6-92a2-70ffdd87a20c to 852f8e44-dc49-47f4-b074-95ddd2e1199e
+[17Apr2022 15:44:15.285] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 2a51db6d-95c8-40b6-b74d-65da1ef476e0 to 2c8f3d18-47b9-41d7-85b6-2ee700b814c5
+[17Apr2022 15:44:15.285] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 2a1fe388-3673-4e1b-9009-91fd08a29efa to 6c5d8249-798c-4334-b980-83cde9044caf
+[17Apr2022 15:44:15.516] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:pheasant from f6dd66ad-59d9-4a16-a7da-0c47ae6cd0d4 to cdc0a00d-4ae4-4e2a-9398-3af586151f16
+[17Apr2022 15:44:15.516] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:badger from 23eeafff-290b-4db8-801b-507a8c341f11 to d15a2623-d6b3-47e7-88b4-589840972844
+[17Apr2022 15:44:15.528] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 5402781f-3362-48e9-99ec-de4f3c0e9488 to 5cf69483-20d3-4080-a162-5c0b63afd10e
+[17Apr2022 15:44:15.685] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:pheasant from a692c9ec-b96b-4b4d-bf94-e704478b9a25 to 61c20431-9461-4405-99b8-6d44de6f4800
+[17Apr2022 15:44:15.773] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from 37ac22a8-7087-4552-82d6-f37234fd754a to 73a3fa76-d2b4-48d0-89be-5ea168cc59d9
+[17Apr2022 15:44:15.863] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from b0440592-b3b7-4c52-b0ab-47c6c42814a9 to efe2ca34-70a1-4f1d-b5be-86e18da0dd39
+[17Apr2022 15:44:15.863] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from a750eca7-7463-4d40-8803-0c8739ba98f4 to 6851278c-deb8-45df-b93b-b7772f54a598
+[17Apr2022 15:44:15.863] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 6eb11f30-0669-453e-9517-81ebae272354 to 474ed1cd-2c5b-48d1-9759-d2fff550317a
+[17Apr2022 15:44:16.339] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:songbird from 9e795d81-ab52-4e1b-be73-f70de33625ae to 220f778a-4a1c-4bca-9c5a-c8103c2f87e0
+[17Apr2022 15:44:16.695] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from c3d05de6-48a5-4b02-815e-0b2e77712b69 to 70293906-26bb-4755-ada9-f433e540f901
+[17Apr2022 15:44:16.827] [Worker-Main-347/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[17Apr2022 15:44:16.827] [Worker-Main-347/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[17Apr2022 15:44:16.828] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:crab from ac0e00e4-c438-45ef-a22a-1525125ddbf7 to 839e6cd6-912c-4a80-b50c-3333f262b63a
+[17Apr2022 15:44:16.828] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:crab from ab7e6ac4-84ba-46cc-9099-e2e2c720a73a to a9ac8aca-59eb-45f4-902b-1e97a50d7542
+[17Apr2022 15:44:16.829] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:crab from 9775df71-ee2f-46e2-9e75-5b876aaf6ca7 to 7ce46105-3c37-4446-ac16-416cb98992a1
+[17Apr2022 15:44:16.855] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:goose from 67c04771-6291-4669-9a2b-e8583679ecf1 to 32adf76a-b5b7-438b-8cbd-4447e52f6762
+[17Apr2022 15:44:16.941] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from b4225731-7c5d-4551-bcc3-caaefd7cd8da to 439cc543-05b5-4431-8f12-558b7f6ac607
+[17Apr2022 15:44:16.956] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 9fe3d4f5-3d3f-48d2-94d8-528de12f0e93 to 4d1f1d1b-0df0-410c-99b4-51e5ec44d2bc
+[17Apr2022 15:44:17.051] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from 18389c21-ca6d-4e84-85c7-cb98d8b57459 to ae5df2ea-0b13-44af-8ff4-71202bb6aad0
+[17Apr2022 15:44:17.426] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from a95008a2-8ee5-468a-b071-6036e937ed60 to c7d06073-f3ae-4ffd-9e03-7b16be3a8f60
+[17Apr2022 15:44:17.426] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:pheasant from 732259d1-c8fa-48a9-8ebe-26c7dfb46f33 to 2f588bf2-76e3-45ff-874e-c904b4388754
+[17Apr2022 15:44:17.878] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from e5326380-d9d0-4d7a-b941-8ad488bd92f7 to bff5d4f0-d9cd-40f6-b1d5-97044646ac8f
+[17Apr2022 15:44:17.919] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from f1facd62-a804-42d3-b30f-cbd4a82d1b9a to 76726b7a-7064-44b4-aec3-69d33f049861
+[17Apr2022 15:44:18.007] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 379c5884-cbd5-4cc8-b0d0-a7bb11cbd137 to 3a30b571-d636-4227-b224-8cd9ffdca340
+[17Apr2022 15:44:18.007] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 18355c7e-9434-4870-aea7-9c1b11d5330f to 549f2643-e1a9-4036-8555-ec6b276cebb8
+[17Apr2022 15:44:18.007] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 503de466-1512-40be-84c8-155e9ffdeb3d to a91f6cbc-2ad5-4dcf-8221-d04a3605589f
+[17Apr2022 15:44:18.007] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from ba618648-9452-418d-b735-51a0d5ebd414 to 14981b35-d2c8-4140-938f-3a6ec9c70a8c
+[17Apr2022 15:44:18.007] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from a02cc5fe-66a9-411b-880d-beed1266a8ef to 75b62df6-8259-48c6-9d81-ee09b3c4f088
+[17Apr2022 15:44:18.007] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from db22d240-47f3-49d2-acc7-d1d9d18d85f5 to 1f5613d9-add7-4063-91a5-62c5b14c7406
+[17Apr2022 15:44:18.179] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 0535378d-77bc-4328-b4d3-b94aee369923 to 23e21d2e-760a-40f4-aefd-2850ab787010
+[17Apr2022 15:44:18.179] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from eaaf6c45-8d73-476b-b521-fa4e376d05e2 to 6cee74dd-bcaa-4c82-8619-7e1c229fe7c3
+[17Apr2022 15:44:18.179] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 80a09c8f-8955-44de-87ac-1fe0d342881e to bc3907d1-8361-4bd7-b697-235eae552ffd
+[17Apr2022 15:44:18.179] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from a9f03852-36c1-4304-a215-069e1bb2d1c2 to f4b5fe94-9698-4154-8f7d-a35f04c18054
+[17Apr2022 15:44:18.179] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from de923bed-8201-473f-bfb0-3ad7cf62fb8b to b9b7ad38-112e-4502-ab7f-a1f2c8741f49
+[17Apr2022 15:44:18.253] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 0f5cd5f7-758c-4001-89c8-efac82f2a9f6 to 09cb1d75-01ab-4de6-b054-ec42d97b9dbc
+[17Apr2022 15:44:18.253] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 8f400cde-862c-4bfb-8547-65795ba393c3 to d8d09715-856e-4c98-ad9e-51d33912d5a3
+[17Apr2022 15:44:18.253] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from bc98ad08-7e14-440b-979b-108ae2d3a9e2 to 5369ca97-0011-4b16-a03f-89becd929ff6
+[17Apr2022 15:44:18.517] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:crab from 8d191f18-5f41-41c4-bb9d-9fbbe079b64f to cb4d8209-b62a-45d5-8b1b-a847c9f475ed
+[17Apr2022 15:44:18.517] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:crab from f011e8a9-3c3e-43dd-b206-4df2436c329d to daaafc3a-5fab-4219-99e4-e88de841716d
+[17Apr2022 15:44:18.734] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from b386a364-5a72-488c-b118-c5a22d3e565f to 02c55613-30ef-4585-9678-ce9f7c0c60bf
+[17Apr2022 15:44:18.832] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:crab from 9c3c6b4e-b7be-4d99-b622-15dfaab2200d to 7991a641-270e-42f5-994d-e5b008cce182
+[17Apr2022 15:44:18.957] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from f8067464-2a13-4493-8891-5ec2ce45aa8f to 79a8af15-edcc-408b-8a08-9ea91adcb6e3
+[17Apr2022 15:44:19.161] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 3ddd6008-6a94-44dc-baf8-581b0c758fda to d1874aaf-a85c-4b08-82a1-12e5b037cf0a
+[17Apr2022 15:44:19.161] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from bbd7bfdd-d45c-4c41-9774-5a5fa0fa260c to a126f55a-03de-4a5c-bddb-af3b4b32abd7

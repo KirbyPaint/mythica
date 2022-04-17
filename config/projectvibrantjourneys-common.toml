@@ -92,28 +92,28 @@
 
 		#Biome Weights
 		[Settings.Biomes."Biome Weights"]
-			overgrown_spires_weight = 3
-			verdant_sands_weight = 3
-			boreal_forest_weight = 3
-			snowy_boreal_forest_weight = 3
-			redwoods_weight = 3
-			snowy_redwoods_weight = 3
-			redwood_peaks_weight = 3
-			pine_meadows_weight = 3
-			alpine_heights_weight = 3
-			boreal_plateau_weight = 3
-			aspen_grove_weight = 3
-			mangrove_marsh_weight = 3
-			willow_wetlands_weight = 3
-			baobab_fields_weight = 3
-			prairie_weight = 3
-			blossoming_fields_weight = 3
-			autumnal_coniferous_forest_weight = 3
-			crimson_thicket_weight = 3
+			overgrown_spires_weight = 4
+			verdant_sands_weight = 4
+			boreal_forest_weight = 6
+			snowy_boreal_forest_weight = 6
+			redwoods_weight = 2
+			snowy_redwoods_weight = 2
+			redwood_peaks_weight = 2
+			pine_meadows_weight = 9
+			alpine_heights_weight = 5
+			boreal_plateau_weight = 6
+			aspen_grove_weight = 7
+			mangrove_marsh_weight = 1
+			willow_wetlands_weight = 1
+			baobab_fields_weight = 4
+			prairie_weight = 9
+			blossoming_fields_weight = 7
+			autumnal_coniferous_forest_weight = 6
+			crimson_thicket_weight = 2
 			desert_shrubland_weight = 3
-			red_rock_valley_weight = 3
-			crystal_lakes_weight = 3
-			windswept_cliffs_weight = 3
+			red_rock_valley_weight = 2
+			crystal_lakes_weight = 7
+			windswept_cliffs_weight = 6
 
 		#Biome Ambience Settings
 		[Settings.Biomes."Biome Ambience"]

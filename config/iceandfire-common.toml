@@ -29,7 +29,7 @@
 
 	[Generation.Dragon]
 		#Whether to generate dragon skeletons or not
-		"Generate Dragon Skeletons" = true
+		"Generate Dragon Skeletons" = false
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
 		"Generate Dragon Skeleton Chance" = 300
@@ -56,14 +56,14 @@
 		"Dangerous World Gen Dist From Spawn" = 800
 		#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from the last generated structure.
 		#Range: 1 ~ 10000
-		"Dangerous World Gen Dist Seperation" = 300
+		"Dangerous World Gen Dist Seperation" = 900
 		#Whether to generate glacier biomes or not
 		"Generate Glaciers" = true
 		#Glacier Spawn Weight. Higher number = more common
 		#Range: 1 ~ 10000
 		"Glacier Spawn Weight" = 4
 		#True if mausoleums are allowed to generate
-		"Generate Mausoleums" = true
+		"Generate Mausoleums" = false
 		#One out of this number chance per chunk to generate a mausoleum.
 		#Range: 1 ~ 10000
 		"Mausoleum Gen Chance" = 1800
@@ -320,8 +320,8 @@
 		#Range: 1.0 ~ 10000.0
 		"Myrmex Base Attack Strength" = 3.0
 		#The maximum radius myrmex area allowed to wander/forage
-		#Range: 100 ~ 20000
-		"Myrmex Maximum Wnader Radius" = 4000
+		#Range: 25 ~ 4000
+		"Myrmex Maximum Wander Radius" = 50
 
 	[Mobs.Amphitheres]
 		#True if amphitheres are allowed to spawn
@@ -385,7 +385,7 @@
 		"Spawn Gorgons" = true
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Spawn Gorgon Chance" = 75
+		"Spawn Gorgon Chance" = 50
 		#Maximum gorgon health
 		#Range: 1.0 ~ 10000.0
 		"Gorgon Max Health" = 100.0
@@ -395,7 +395,7 @@
 		"Spawn Liches" = true
 		#Dread Lich spawn weight. Lower = lower chance to spawn
 		#Range: 1 ~ 10000
-		"Lich Spawn Weight" = 2
+		"Lich Spawn Weight" = 15
 		#Maximum hydra health
 		#Range: 1.0 ~ 10000.0
 		"Hydra Max Health" = 250.0
@@ -413,7 +413,7 @@
 		#True if ghosts can rarely spawn from brutal PvP deaths.
 		"Ghost Spawn from PvP deaths" = true
 		#Villager Scribe House generation weight. Lower = lower chance to spawn
-		#Range: 30 ~ 10000
+		#Range: 0 ~ 10000
 		"Villager Scribe House Weight" = 30
 
 [Items]

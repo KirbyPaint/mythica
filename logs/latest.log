@@ -9951,3 +9951,89 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/resourc
 [17Apr2022 22:36:28.297] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
 [17Apr2022 22:36:28.506] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
 [17Apr2022 22:37:01.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64    [Paper] to Ellariana
+[17Apr2022 22:41:01.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 9    [Polished Diorite] to Ellariana
+[17Apr2022 22:41:27.878] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:41:28.094] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:41:28.312] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:41:28.522] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:41:43.295] [Netty Epoll Server IO #12/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[17Apr2022 22:41:43.640] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player ASwarmOfBees is 2776f3cd-da14-4695-a9a7-78034663ebca
+[17Apr2022 22:41:51.237] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7926dd48
+[17Apr2022 22:41:51.278] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ASwarmOfBees[/73.67.161.12:50776] logged in with entity id 91017 at (4713.887451171875, 70.0, -9695.17626953125)
+[17Apr2022 22:41:51.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ASwarmOfBees joined the game
+[17Apr2022 22:41:51.315] [Server thread/INFO] [harmonised.pmmo.ProjectMMOMod/]: Project MMO version: "3.63" Latest: "3.67"
+[17Apr2022 22:42:16.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64    [Oak Log] to Ellariana
+[17Apr2022 22:43:43.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64    [Stone] to Ellariana
+[17Apr2022 22:46:28.620] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:46:28.827] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:46:29.035] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:46:29.323] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:46:31.731] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from 605bda6f-42f7-4a2a-b3bc-b5c004154c61 to eb1ee1ac-5697-47b9-a4ee-d3cd2c5a47bd
+[17Apr2022 22:46:32.482] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:pillager from e39abf3e-364e-4c77-a61b-8e15d1922d25 to 7188a36c-fed4-4755-8c69-68ac1cb7fa62
+[17Apr2022 22:46:34.676] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from 8aa214e1-0733-4e4d-91ac-9bb4ea5da7fd to 0e7cb7f3-7c44-4311-83df-82e402351e5e
+[17Apr2022 22:46:34.676] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from c6388027-6cf5-4098-b49e-aefc5bdb9c29 to 2ed397a2-d41f-45df-9233-dfeda43b702b
+[17Apr2022 22:46:35.461] [Worker-Main-1871/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[17Apr2022 22:46:35.461] [Worker-Main-1871/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[17Apr2022 22:46:35.707] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from eee8e684-496b-4fc8-8ca0-ef1276c412a0 to 569523a7-c0e3-4e52-9bab-1eb4e41b1c45
+[17Apr2022 22:46:35.718] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from bf7a0866-8109-420d-8e41-26405482a4fe to f255405e-15ab-4329-946e-fa9b85a077d9
+[17Apr2022 22:46:35.768] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item from 403e8983-1d4b-4971-850e-ad655c63b8f5 to a0d531f2-b04d-4d2c-8edb-b2c67b8010bc
+[17Apr2022 22:46:35.768] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item from 59a27a3a-e6d9-4a99-af21-6fcc79e05334 to 204b9f4a-95cd-4a3b-83a6-21903e5f489e
+[17Apr2022 22:46:35.768] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item from 689af880-df98-4f4d-957c-c73f467734b8 to 446f5f23-be74-4da3-a5cd-48619eeeef7e
+[17Apr2022 22:46:35.768] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item from 7ef6b67f-2c2b-475d-a952-4171b190fc2a to 4d7f737a-c844-41b3-ba32-53a710f09160
+[17Apr2022 22:46:35.769] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item from bf64b2b2-ca8e-471d-a2a5-36ab98e05991 to 5744d72c-a4a9-4e8f-9ede-5b18a5566b3e
+[17Apr2022 22:46:35.769] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:item from f6b1dcec-ad0d-4c41-bbd1-ec60debabd3f to f7b101df-daad-4a43-90ad-624108393b3b
+[17Apr2022 22:46:35.821] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from d51f8b4e-96d1-4ac0-901f-f04a66505961 to 41864622-ee67-461a-b38a-5d3d8b5e601e
+[17Apr2022 22:46:38.035] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 1ca58bb1-bd64-47e1-b7f7-26508b2a5f0e to 56a56dd3-4ab9-4d30-91e0-3dc3f2bbfbfd
+[17Apr2022 22:46:38.096] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from e2989a91-4c39-4434-b15a-9e9dd34e63b6 to 496e38bf-e060-4846-9fa0-4c66b5100e38
+[17Apr2022 22:46:38.239] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from 92caaedc-7d8d-4586-bb98-19a7253014da to e356a190-d66f-4ad5-bc7e-52193a7ab8a9
+[17Apr2022 22:46:38.240] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:multipart from eff984cf-ba88-4b0b-80b6-105b1d46e7b6 to cab70ce3-c1ca-4d65-ac07-55f1555b2419
+[17Apr2022 22:46:38.240] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:multipart from d28ef52d-9706-48b4-8fb3-7d05f0cde3af to a107c6b9-142b-491e-b93f-f32e71b1b7f5
+[17Apr2022 22:46:38.240] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:multipart from 9d3df3cf-cae3-4ddc-bff2-1795ef1d1592 to dfae720f-d51b-489f-bac3-8b7a6c419940
+[17Apr2022 22:46:38.240] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:multipart from 6f55605b-40f0-4c5e-92c2-8a7d01a52f5e to 2a404ecf-5923-420e-ac2d-d97187d6a4cb
+[17Apr2022 22:46:38.240] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:multipart from 155426f0-00f2-4472-b41e-c1e99cd664be to 5c0879e8-fac2-4e6f-962c-a764dbb458a4
+[17Apr2022 22:46:38.240] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:multipart from ae3e0f26-ab2d-4db6-9393-e1df8a056cba to 01ef8bbc-d690-4239-902f-ae5add8560cb
+[17Apr2022 22:46:38.240] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:multipart from c9fc6f57-e0f1-45e8-b1b8-2328c3b0f110 to 1bd438bb-0d79-4b26-9188-e1594a6abb2b
+[17Apr2022 22:46:38.240] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from e9721db6-e7a5-468d-ad0e-c289b5358f5a to af3ad84c-fedc-474a-9c2f-a8e2d944a6c8
+[17Apr2022 22:47:09.255] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:boar from 6a0752fc-143e-46f4-a671-83077fce477b to d333f5f2-854b-4967-9d7d-d2c26b3ed234
+[17Apr2022 22:47:09.255] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:boar from 4cb22d95-db40-42a4-9faf-5a6745d99918 to b8b850b0-5560-4e7f-8965-3a07324c7d47
+[17Apr2022 22:47:09.255] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:boar from 2eaeb7c8-f8d6-4bd6-ab37-f38cb76d99b4 to bdbaeca3-d371-48a9-8f09-6b4ec6d8820e
+[17Apr2022 22:47:09.255] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:boar from 2ff363bc-f45d-41db-8014-52b4a6bf66fc to aa181af9-c4a1-4328-b298-c946e1b87903
+[17Apr2022 22:47:09.255] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:pheasant from 27b3e681-ddf7-4e4f-84f7-4f09af3d1cac to c6929c03-3685-43b9-bbf4-f57254b16c7e
+[17Apr2022 22:47:09.256] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:deer from a4e6714e-c65f-4eeb-a654-5ccb7612e1d9 to ed7e3fa3-7810-4d2b-ac72-81298dcfcf6c
+[17Apr2022 22:47:09.256] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:deer from abbe9edd-5d17-441a-a727-96ac08044b67 to 04c9a7eb-7bcf-4735-bbf4-2ae307bbab3d
+[17Apr2022 22:47:09.256] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:deer from d416407a-1c1a-425f-82ee-fabb9052f944 to 680f1206-ffb7-4f83-a726-2bb74e4d3922
+[17Apr2022 22:48:18.286] [Server thread/INFO] [minecolonies/]: Colony 1 - new AbstractBuilding for class net.minecraft.block.BlockState at BlockPos{x=1015, y=68, z=-8345}
+[17Apr2022 22:51:18.013] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ASwarmOfBees lost connection: Disconnected
+[17Apr2022 22:51:18.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ASwarmOfBees left the game
+[17Apr2022 22:51:27.952] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:51:28.162] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:51:28.372] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:51:28.581] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:56:27.915] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:56:28.128] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:56:28.337] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:56:28.545] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:57:27.500] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[17Apr2022 22:57:27.501] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[17Apr2022 22:57:30.126] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Ellariana has reached level 44 in farming! [minecraft:overworld|x:1022.07|y:75.00|z:-8251.23]
+[17Apr2022 22:58:21.151] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ellariana lost connection: Disconnected
+[17Apr2022 22:58:21.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ellariana left the game
+[17Apr2022 22:58:42.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[17Apr2022 22:58:42.448] [Server thread/INFO] [com.desagas.biomeidfixer.BiomeIdFixer/]: Desagas: started 'FMLServerStoppingEvent' processes.
+[17Apr2022 22:58:42.448] [Server thread/INFO] [com.desagas.biomeidfixer.BiomeIdFixer/]: Desagas: ended 'FMLServerStoppingEvent' processes.
+[17Apr2022 22:58:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Apr2022 22:58:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Apr2022 22:58:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Apr2022 22:58:42.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mythica]'/minecraft:overworld
+[17Apr2022 22:58:43.519] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Apr2022 22:58:43.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mythica]'/minecraft:the_nether
+[17Apr2022 22:58:43.528] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Apr2022 22:58:43.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mythica]'/minecraft:the_end
+[17Apr2022 22:58:43.537] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Apr2022 22:58:43.567] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:58:43.761] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:58:43.953] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:58:44.145] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:58:44.475] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Apr2022 22:58:44.702] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Apr2022 22:58:44.819] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

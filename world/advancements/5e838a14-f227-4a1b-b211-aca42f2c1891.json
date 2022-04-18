@@ -9034,6 +9034,12 @@
     },
     "done": true
   },
+  "minecolonies:production/build_sawmill": {
+    "criteria": {
+      "sawmill": "2022-04-17 23:37:14 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/warped/warped_double_desk_right": {
     "criteria": {
       "has_planks": "2021-08-24 23:09:30 -0700"
@@ -23186,6 +23192,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/building_add_recipe_torch": {
+    "criteria": {
+      "add_recipe_torch": "2022-04-17 23:58:40 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/down_gated_cactus_red_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 21:31:35 -0700"
@@ -28287,6 +28299,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/building_add_recipe_door": {
+    "criteria": {
+      "add_recipe_oak_door": "2022-04-17 23:51:30 -0700"
+    },
+    "done": false
+  },
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_warped_gray_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 21:31:34 -0700"
@@ -29936,6 +29954,12 @@
   "structurize:recipes/structurize.timber_frames/side_framed_warped_purple_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 21:31:35 -0700"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2022-04-17 23:48:25 -0700"
     },
     "done": true
   },

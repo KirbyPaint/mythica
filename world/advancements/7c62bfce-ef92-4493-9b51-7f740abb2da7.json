@@ -8953,6 +8953,12 @@
     },
     "done": true
   },
+  "minecolonies:production/build_sawmill": {
+    "criteria": {
+      "sawmill": "2022-04-17 23:37:14 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_oak_warped_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:31 -0700"
@@ -20131,6 +20137,12 @@
     },
     "done": true
   },
+  "dungeonsmod:dungeons/iron_slime": {
+    "criteria": {
+      "kill_ironslime": "2022-04-18 00:15:57 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/framed_jungle_cyan_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:32 -0700"
@@ -23005,6 +23017,12 @@
   "structurize:recipes/structurize.shingles/magenta_clay_cactus_shingle": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:46 -0700"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/building_add_recipe_torch": {
+    "criteria": {
+      "add_recipe_torch": "2022-04-17 23:58:40 -0700"
     },
     "done": true
   },
@@ -28113,6 +28131,12 @@
       "has_the_recipe": "2022-04-16 13:40:35 -0700"
     },
     "done": true
+  },
+  "minecolonies:minecolonies/building_add_recipe_door": {
+    "criteria": {
+      "add_recipe_oak_door": "2022-04-17 23:51:30 -0700"
+    },
+    "done": false
   },
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_warped_gray_terracotta_timber_frame": {
     "criteria": {
@@ -36743,6 +36767,12 @@
   "structurize:recipes/structurize.timber_frames/framed_acacia_white_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_stonemason": {
+    "criteria": {
+      "stonemason": "2022-04-18 00:23:34 -0700"
     },
     "done": true
   },

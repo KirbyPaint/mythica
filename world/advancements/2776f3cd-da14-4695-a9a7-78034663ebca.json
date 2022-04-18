@@ -1472,6 +1472,7 @@
   },
   "betteranimalsplus:animal_head_variants": {
     "criteria": {
+      "boarhead_dark_brown": "2022-04-18 00:35:37 -0700",
       "feralwolfhead_red": "2022-03-20 00:22:05 -0700",
       "head4": "2021-09-13 11:51:38 -0700",
       "head6": "2022-04-03 15:10:59 -0700"
@@ -8978,6 +8979,12 @@
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_cactus_paper_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:35 -0700"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_sawmill": {
+    "criteria": {
+      "sawmill": "2022-04-17 23:37:14 -0700"
     },
     "done": true
   },
@@ -23081,6 +23088,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/building_add_recipe_torch": {
+    "criteria": {
+      "add_recipe_torch": "2022-04-17 23:58:40 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/down_gated_cactus_red_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:34 -0700"
@@ -28173,6 +28186,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/building_add_recipe_door": {
+    "criteria": {
+      "add_recipe_oak_door": "2022-04-17 23:51:30 -0700"
+    },
+    "done": false
+  },
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_warped_gray_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:43 -0700"
@@ -29622,6 +29641,7 @@
   "betteranimalsplus:animal_head_all": {
     "criteria": {
       "feralwolfhead_red": "2022-03-20 00:22:05 -0700",
+      "head15": "2022-04-18 00:35:37 -0700",
       "head4": "2021-09-13 11:51:38 -0700",
       "head6": "2022-04-03 15:10:59 -0700"
     },
@@ -36810,6 +36830,12 @@
   "structurize:recipes/structurize.timber_frames/framed_acacia_white_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:38 -0700"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_stonemason": {
+    "criteria": {
+      "stonemason": "2022-04-18 00:23:34 -0700"
     },
     "done": true
   },

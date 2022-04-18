@@ -28336,6 +28336,12 @@
     },
     "done": true
   },
+  "mutantmore:mutantmore/root": {
+    "criteria": {
+      "crafting_table": "2022-04-17 21:52:25 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_warped_stone_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:30 -0700"

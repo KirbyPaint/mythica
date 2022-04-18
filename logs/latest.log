@@ -8906,3 +8906,1048 @@ java.lang.Exception: null
 [17Apr2022 19:16:22.217] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
 [17Apr2022 19:16:22.425] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
 [17Apr2022 19:16:22.633] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:21:21.898] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:21:22.107] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:21:22.305] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:21:22.513] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:26:21.900] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:26:22.108] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:26:22.300] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:26:22.493] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:31:21.897] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:31:22.111] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:31:22.308] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:31:22.505] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:36:21.896] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:36:22.110] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:36:22.305] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:36:22.504] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:41:21.897] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:41:22.115] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:41:22.321] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:41:22.518] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:46:21.915] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:46:22.122] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:46:22.320] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:46:22.516] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:51:21.932] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:51:22.146] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:51:22.341] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:51:22.536] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:56:21.897] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:56:22.106] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:56:22.304] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 19:56:22.503] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:01:21.897] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:01:22.117] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:01:22.314] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:01:22.512] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:06:21.899] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:06:22.116] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:06:22.317] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:06:22.513] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:11:21.896] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:11:22.111] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:11:22.306] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:11:22.501] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:16:21.897] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:16:22.106] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:16:22.301] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:16:22.500] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:21:21.897] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:21:22.106] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:21:22.303] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:21:22.498] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:26:21.916] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:26:22.124] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:26:22.321] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:26:22.518] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:30:20.526] [Netty Epoll Server IO #11/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[17Apr2022 20:30:20.872] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player ASwarmOfBees is 2776f3cd-da14-4695-a9a7-78034663ebca
+[17Apr2022 20:30:29.189] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@713038cb
+[17Apr2022 20:30:29.219] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: betteranimalsplus:crab_disk removed now.
+[17Apr2022 20:30:29.230] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: betteranimalsplus:crab_disk removed now.
+[17Apr2022 20:30:29.232] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ASwarmOfBees[/73.67.161.12:50159] logged in with entity id 13156 at (904.3477712291613, 59.0, -8265.097160840993)
+[17Apr2022 20:30:29.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ASwarmOfBees joined the game
+[17Apr2022 20:30:29.354] [Server thread/INFO] [harmonised.pmmo.ProjectMMOMod/]: Project MMO version: "3.63" Latest: "3.67"
+[17Apr2022 20:31:22.034] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:31:22.280] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:31:22.517] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:31:22.756] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:36:21.992] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:36:22.200] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:36:22.410] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:36:22.620] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:41:21.996] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:41:22.209] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:41:22.419] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:41:22.626] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:45:17.068] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityShark from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[17Apr2022 20:45:17.071] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityWhale from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[17Apr2022 20:45:17.651] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[17Apr2022 20:45:17.651] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[17Apr2022 20:45:28.656] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBobbitWorm from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[17Apr2022 20:45:41.219] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ASwarmOfBees moved too quickly! 921.9465887044355,-7.0,-1737.2352167468143
+[17Apr2022 20:46:22.013] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:46:22.219] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:46:22.429] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:46:22.636] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:51:22.044] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:51:22.257] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:51:22.470] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:51:22.735] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:56:22.025] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:56:22.234] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:56:22.505] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:56:22.714] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 20:56:59.510] [Netty Epoll Server IO #14/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[17Apr2022 20:56:59.944] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Ellariana is 7c62bfce-ef92-4493-9b51-7f740abb2da7
+[17Apr2022 20:57:05.239] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5f516eae
+[17Apr2022 20:57:05.281] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ellariana[/73.67.161.12:62811] logged in with entity id 17234 at (1031.6682291786224, 75.0, -8257.589546845558)
+[17Apr2022 20:57:05.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ellariana joined the game
+[17Apr2022 20:57:05.333] [Server thread/INFO] [harmonised.pmmo.ProjectMMOMod/]: Project MMO version: "3.63" Latest: "3.67"
+[17Apr2022 21:01:22.128] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:01:22.370] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:01:22.586] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:01:22.795] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:06:22.128] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:06:22.337] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:06:22.547] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:06:22.758] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:11:22.110] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:11:22.316] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:11:22.524] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:11:22.731] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:11:32.393] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Ellariana has reached level 45 in crafting! [minecraft:overworld|x:919.63|y:97.00|z:-8279.79]
+[17Apr2022 21:16:22.138] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:16:22.378] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:16:22.612] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:16:22.821] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:17:32.767] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Ellariana has reached level 55 in agility! [minecraft:overworld|x:985.84|y:69.25|z:-8118.17]
+[17Apr2022 21:18:00.349] [Worker-Main-1689/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[17Apr2022 21:18:00.349] [Worker-Main-1689/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[17Apr2022 21:19:36.612] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: java.io.IOException: Base resource not found: zs$2.class
+[17Apr2022 21:19:36.612] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.Patcher.applyPatch(Patcher.java:146)
+[17Apr2022 21:19:36.612] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[17Apr2022 21:19:36.612] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[17Apr2022 21:19:36.612] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:292)
+[17Apr2022 21:19:36.612] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:261)
+[17Apr2022 21:19:36.612] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.transform(OptiFineTransformer.java:172)
+[17Apr2022 21:19:36.612] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[17Apr2022 21:19:36.613] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[17Apr2022 21:19:36.613] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[17Apr2022 21:19:36.613] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[17Apr2022 21:19:36.613] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265)
+[17Apr2022 21:19:36.613] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136)
+[17Apr2022 21:19:36.613] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98)
+[17Apr2022 21:19:36.613] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+[17Apr2022 21:19:36.613] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ChunkManager.func_219227_a(ChunkManager.java:252)
+[17Apr2022 21:19:36.613] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:616)
+[17Apr2022 21:19:36.613] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:591)
+[17Apr2022 21:19:36.613] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+[17Apr2022 21:19:36.613] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+[17Apr2022 21:19:36.613] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ChunkHolder.func_219291_a(ChunkHolder.java:303)
+[17Apr2022 21:19:36.613] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.TicketManager.func_219343_a(TicketManager.java:104)
+[17Apr2022 21:19:36.614] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.lang.Iterable.forEach(Iterable.java:75)
+[17Apr2022 21:19:36.614] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.TicketManager.func_219353_a(TicketManager.java:103)
+[17Apr2022 21:19:36.614] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ServerChunkProvider.func_217235_l(ServerChunkProvider.java:276)
+[17Apr2022 21:19:36.614] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ServerChunkProvider.access$200(ServerChunkProvider.java:49)
+[17Apr2022 21:19:36.614] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:523)
+[17Apr2022 21:19:36.614] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272)
+[17Apr2022 21:19:36.614] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722)
+[17Apr2022 21:19:36.614] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+[17Apr2022 21:19:36.614] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127)
+[17Apr2022 21:19:36.614] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697)
+[17Apr2022 21:19:36.614] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+[17Apr2022 21:19:36.614] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[17Apr2022 21:19:36.614] [Server thread/INFO] [STDERR/]: [optifine.OptiFineTransformer:getOptiFineResourcePatched:414]: 	at java.lang.Thread.run(Thread.java:748)
+[17Apr2022 21:21:22.592] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:21:22.807] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:21:23.017] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:21:23.296] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:23:30.748] [Netty Epoll Server IO #3/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[17Apr2022 21:23:31.117] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player KirbyPaint is 5e838a14-f227-4a1b-b211-aca42f2c1891
+[17Apr2022 21:23:36.492] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@42f32f40
+[17Apr2022 21:23:36.534] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KirbyPaint[/73.67.161.12:64453] logged in with entity id 24268 at (1033.6127627882884, 84.0, -8118.260143198624)
+[17Apr2022 21:23:36.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KirbyPaint joined the game
+[17Apr2022 21:23:36.569] [Server thread/INFO] [harmonised.pmmo.ProjectMMOMod/]: Project MMO version: "3.63" Latest: "3.67"
+[17Apr2022 21:25:14.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ASwarmOfBees> ash can you uh
+[17Apr2022 21:25:23.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ASwarmOfBees> silk touch pls
+[17Apr2022 21:25:48.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> also she needs a blue egg and a new dragon gem
+[17Apr2022 21:25:55.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> and i will need a dragon gem when im on the ground
+[17Apr2022 21:26:03.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> uhhh i just loaded in but ok
+[17Apr2022 21:26:10.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ASwarmOfBees> i mean i dont have to have a blue egg i have a green one also
+[17Apr2022 21:26:11.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> also some chicken nugs
+[17Apr2022 21:26:15.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> and a hamberger
+[17Apr2022 21:26:17.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> maybe fries
+[17Apr2022 21:26:22.366] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:26:22.596] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:26:22.807] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:26:23.017] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:27:05.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1    [Poisonous Potato] to Ellariana
+[17Apr2022 21:27:11.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> there's ur fuckin fry
+[17Apr2022 21:27:16.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> hahaha
+[17Apr2022 21:28:06.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1    [Dragon Egg] to ASwarmOfBees
+[17Apr2022 21:28:34.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> can someone link the dragon gem in chat
+[17Apr2022 21:28:36.951] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Walter'/3410, l='ServerLevel[Mythica]', x=1238.71, y=69.20, z=-8077.01] died, message: 'Walter was slain by Cyclops'
+[17Apr2022 21:28:45.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> shift + t on the item
+[17Apr2022 21:28:51.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ASwarmOfBees>    [Ice Dragon Summoning Crystal]
+[17Apr2022 21:29:18.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1    [Ice Dragon Summoning Crystal] to ASwarmOfBees
+[17Apr2022 21:29:22.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ASwarmOfBees> wont help him tho cuz his is fire and it matters i guess
+[17Apr2022 21:29:49.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1    [Fire Dragon Summoning Crystal] to ASwarmOfBees
+[17Apr2022 21:30:40.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown item 'iceandfire:dragonmeal'
+[17Apr2022 21:30:40.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...armofbees iceandfire:dragonmeal 64<--[HERE]
+[17Apr2022 21:30:41.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown item 'iceandfire:dragonmeal'
+[17Apr2022 21:30:41.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...armofbees iceandfire:dragonmeal 64<--[HERE]
+[17Apr2022 21:30:55.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64    [Dragon Meal] to ASwarmOfBees
+[17Apr2022 21:30:55.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64    [Dragon Meal] to ASwarmOfBees
+[17Apr2022 21:31:22.392] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:31:22.610] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:31:22.826] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:31:23.037] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:31:25.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ASwarmOfBees> a silk touch pickaxe would also be nice lol
+[17Apr2022 21:31:41.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> can't just gift that, I don't know the NBT tag, I'm getting a book from my library
+[17Apr2022 21:31:47.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> one sec
+[17Apr2022 21:31:50.677] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: null
+	Index: 4
+	Listeners:
+		0: HIGH
+		1: ASM: class meldexun.magicalconvergence.event.PlayerEventHandler onRightClickBlockEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		2: ASM: class me.shedaniel.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		3: NORMAL
+		4: ASM: class net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		5: ASM: class net.mcreator.undeadexpansion.procedures.SpiderSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		6: ASM: class com.ShteKen.endrem.events.ModEvents DisableUsingEnderEyes(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		7: ASM: com.dainxt.dungeonsmod.handlers.EventsHandler@4716c2d0 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		8: ASM: class net.mcreator.undeadexpansion.procedures.SkeletonSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		9: ASM: class net.mcreator.undeadexpansion.procedures.EndermanSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		10: ASM: org.infernalstudios.infernalexp.events.MiscEvents@40cbe9b1 onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		11: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@11d10caa onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		12: net.minecraftforge.eventbus.EventBus$$Lambda$2256/1426784247@122c8763
+		13: ASM: class com.minecolonies.coremod.event.EventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		14: ASM: class com.ma.progression.ProgressionEventHandler onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		15: ASM: class com.ma.events.CommonEventHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		16: ASM: vazkii.quark.content.building.module.BurnVinesModule@261933eb onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		17: ASM: vazkii.quark.content.building.module.ShallowDirtModule@395c0767 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		18: ASM: vazkii.quark.content.building.module.StoolsModule@282bbc itemUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		19: ASM: vazkii.quark.content.building.module.TieLeadsToFencesModule@51bc0464 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		20: ASM: vazkii.quark.content.tweaks.module.DirtToPathModule@19763f40 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		21: ASM: vazkii.quark.content.tweaks.module.EnhancedLaddersModule@37a5861c onInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		22: ASM: vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule@167684a3 onInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		23: ASM: vazkii.quark.content.tweaks.module.SignEditingModule@3f9a360c onInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		24: ASM: vazkii.quark.content.tweaks.module.SimpleHarvestModule@2dbf31d0 onClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		25: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6e4fd213 onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		26: ASM: com.natamus.stackrefill.events.RefillEvent@bd739a1 onBlockRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		27: ASM: class tictim.paraglider.event.ParagliderEventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		28: ASM: com.dainxt.dungeonsmod.handlers.EventsHandler@4716c2d0 onInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		29: ASM: com.minecolonies.coremod.permissions.ColonyPermissionEventHandler@5ed461b1 on(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		30: ASM: com.minecolonies.coremod.permissions.ColonyPermissionEventHandler@5e396f8a on(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		31: LOWEST
+		32: ASM: class harmonised.pmmo.events.EventHandler playerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+java.lang.NullPointerException
+	at com.mcwfurnitures.kikoz.storage.FurnitureTileEntityDouble.getCapability(FurnitureTileEntityDouble.java:172)
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$1.getItemStack(ZombieSpawnerProcedure.java:108)
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure.executeProcedure(ZombieSpawnerProcedure.java:114)
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$GlobalTrigger.onRightClickBlock(ZombieSpawnerProcedure.java:68)
+	at net.minecraftforge.eventbus.ASMEventHandler_81_GlobalTrigger_onRightClickBlock_RightClickBlock.invoke(.dynamic)
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:831)
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:318)
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958)
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36)
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10)
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21)
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717)
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127)
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+	at java.lang.Thread.run(Thread.java:748)
+
+[17Apr2022 21:31:50.678] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.mcwfurnitures.kikoz.storage.FurnitureTileEntityDouble.getCapability(FurnitureTileEntityDouble.java:172) ~[mcwfurnitures:1.0]
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$1.getItemStack(ZombieSpawnerProcedure.java:108) ~[undead_expansion:?]
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure.executeProcedure(ZombieSpawnerProcedure.java:114) ~[undead_expansion:?]
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$GlobalTrigger.onRightClickBlock(ZombieSpawnerProcedure.java:68) ~[undead_expansion:?]
+	at net.minecraftforge.eventbus.ASMEventHandler_81_GlobalTrigger_onRightClickBlock_RightClickBlock.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:831) ~[forge:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:318) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[17Apr2022 21:31:50.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ASwarmOfBees> lol
+[17Apr2022 21:31:55.220] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: null
+	Index: 4
+	Listeners:
+		0: HIGH
+		1: ASM: class meldexun.magicalconvergence.event.PlayerEventHandler onRightClickBlockEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		2: ASM: class me.shedaniel.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		3: NORMAL
+		4: ASM: class net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		5: ASM: class net.mcreator.undeadexpansion.procedures.SpiderSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		6: ASM: class com.ShteKen.endrem.events.ModEvents DisableUsingEnderEyes(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		7: ASM: com.dainxt.dungeonsmod.handlers.EventsHandler@4716c2d0 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		8: ASM: class net.mcreator.undeadexpansion.procedures.SkeletonSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		9: ASM: class net.mcreator.undeadexpansion.procedures.EndermanSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		10: ASM: org.infernalstudios.infernalexp.events.MiscEvents@40cbe9b1 onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		11: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@11d10caa onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		12: net.minecraftforge.eventbus.EventBus$$Lambda$2256/1426784247@122c8763
+		13: ASM: class com.minecolonies.coremod.event.EventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		14: ASM: class com.ma.progression.ProgressionEventHandler onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		15: ASM: class com.ma.events.CommonEventHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		16: ASM: vazkii.quark.content.building.module.BurnVinesModule@261933eb onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		17: ASM: vazkii.quark.content.building.module.ShallowDirtModule@395c0767 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		18: ASM: vazkii.quark.content.building.module.StoolsModule@282bbc itemUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		19: ASM: vazkii.quark.content.building.module.TieLeadsToFencesModule@51bc0464 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		20: ASM: vazkii.quark.content.tweaks.module.DirtToPathModule@19763f40 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		21: ASM: vazkii.quark.content.tweaks.module.EnhancedLaddersModule@37a5861c onInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		22: ASM: vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule@167684a3 onInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		23: ASM: vazkii.quark.content.tweaks.module.SignEditingModule@3f9a360c onInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		24: ASM: vazkii.quark.content.tweaks.module.SimpleHarvestModule@2dbf31d0 onClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		25: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6e4fd213 onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		26: ASM: com.natamus.stackrefill.events.RefillEvent@bd739a1 onBlockRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		27: ASM: class tictim.paraglider.event.ParagliderEventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		28: ASM: com.dainxt.dungeonsmod.handlers.EventsHandler@4716c2d0 onInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		29: ASM: com.minecolonies.coremod.permissions.ColonyPermissionEventHandler@5ed461b1 on(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		30: ASM: com.minecolonies.coremod.permissions.ColonyPermissionEventHandler@5e396f8a on(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		31: LOWEST
+		32: ASM: class harmonised.pmmo.events.EventHandler playerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+java.lang.NullPointerException
+	at com.mcwfurnitures.kikoz.storage.FurnitureTileEntityDouble.getCapability(FurnitureTileEntityDouble.java:172)
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$1.getItemStack(ZombieSpawnerProcedure.java:108)
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure.executeProcedure(ZombieSpawnerProcedure.java:114)
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$GlobalTrigger.onRightClickBlock(ZombieSpawnerProcedure.java:68)
+	at net.minecraftforge.eventbus.ASMEventHandler_81_GlobalTrigger_onRightClickBlock_RightClickBlock.invoke(.dynamic)
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:831)
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:318)
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958)
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36)
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10)
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21)
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717)
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127)
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+	at java.lang.Thread.run(Thread.java:748)
+
+[17Apr2022 21:31:55.221] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.mcwfurnitures.kikoz.storage.FurnitureTileEntityDouble.getCapability(FurnitureTileEntityDouble.java:172) ~[mcwfurnitures:1.0]
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$1.getItemStack(ZombieSpawnerProcedure.java:108) ~[undead_expansion:?]
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure.executeProcedure(ZombieSpawnerProcedure.java:114) ~[undead_expansion:?]
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$GlobalTrigger.onRightClickBlock(ZombieSpawnerProcedure.java:68) ~[undead_expansion:?]
+	at net.minecraftforge.eventbus.ASMEventHandler_81_GlobalTrigger_onRightClickBlock_RightClickBlock.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:831) ~[forge:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:318) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[17Apr2022 21:32:01.370] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: null
+	Index: 4
+	Listeners:
+		0: HIGH
+		1: ASM: class meldexun.magicalconvergence.event.PlayerEventHandler onRightClickBlockEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		2: ASM: class me.shedaniel.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		3: NORMAL
+		4: ASM: class net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		5: ASM: class net.mcreator.undeadexpansion.procedures.SpiderSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		6: ASM: class com.ShteKen.endrem.events.ModEvents DisableUsingEnderEyes(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		7: ASM: com.dainxt.dungeonsmod.handlers.EventsHandler@4716c2d0 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		8: ASM: class net.mcreator.undeadexpansion.procedures.SkeletonSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		9: ASM: class net.mcreator.undeadexpansion.procedures.EndermanSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		10: ASM: org.infernalstudios.infernalexp.events.MiscEvents@40cbe9b1 onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		11: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@11d10caa onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		12: net.minecraftforge.eventbus.EventBus$$Lambda$2256/1426784247@122c8763
+		13: ASM: class com.minecolonies.coremod.event.EventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		14: ASM: class com.ma.progression.ProgressionEventHandler onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		15: ASM: class com.ma.events.CommonEventHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		16: ASM: vazkii.quark.content.building.module.BurnVinesModule@261933eb onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		17: ASM: vazkii.quark.content.building.module.ShallowDirtModule@395c0767 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		18: ASM: vazkii.quark.content.building.module.StoolsModule@282bbc itemUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		19: ASM: vazkii.quark.content.building.module.TieLeadsToFencesModule@51bc0464 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		20: ASM: vazkii.quark.content.tweaks.module.DirtToPathModule@19763f40 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		21: ASM: vazkii.quark.content.tweaks.module.EnhancedLaddersModule@37a5861c onInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		22: ASM: vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule@167684a3 onInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		23: ASM: vazkii.quark.content.tweaks.module.SignEditingModule@3f9a360c onInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		24: ASM: vazkii.quark.content.tweaks.module.SimpleHarvestModule@2dbf31d0 onClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		25: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6e4fd213 onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		26: ASM: com.natamus.stackrefill.events.RefillEvent@bd739a1 onBlockRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		27: ASM: class tictim.paraglider.event.ParagliderEventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		28: ASM: com.dainxt.dungeonsmod.handlers.EventsHandler@4716c2d0 onInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		29: ASM: com.minecolonies.coremod.permissions.ColonyPermissionEventHandler@5ed461b1 on(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		30: ASM: com.minecolonies.coremod.permissions.ColonyPermissionEventHandler@5e396f8a on(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		31: LOWEST
+		32: ASM: class harmonised.pmmo.events.EventHandler playerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+java.lang.NullPointerException
+	at com.mcwfurnitures.kikoz.storage.FurnitureTileEntityDouble.getCapability(FurnitureTileEntityDouble.java:172)
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$1.getItemStack(ZombieSpawnerProcedure.java:108)
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure.executeProcedure(ZombieSpawnerProcedure.java:114)
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$GlobalTrigger.onRightClickBlock(ZombieSpawnerProcedure.java:68)
+	at net.minecraftforge.eventbus.ASMEventHandler_81_GlobalTrigger_onRightClickBlock_RightClickBlock.invoke(.dynamic)
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:831)
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:318)
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958)
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36)
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10)
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21)
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717)
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127)
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+	at java.lang.Thread.run(Thread.java:748)
+
+[17Apr2022 21:32:01.371] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.mcwfurnitures.kikoz.storage.FurnitureTileEntityDouble.getCapability(FurnitureTileEntityDouble.java:172) ~[mcwfurnitures:1.0]
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$1.getItemStack(ZombieSpawnerProcedure.java:108) ~[undead_expansion:?]
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure.executeProcedure(ZombieSpawnerProcedure.java:114) ~[undead_expansion:?]
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$GlobalTrigger.onRightClickBlock(ZombieSpawnerProcedure.java:68) ~[undead_expansion:?]
+	at net.minecraftforge.eventbus.ASMEventHandler_81_GlobalTrigger_onRightClickBlock_RightClickBlock.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:831) ~[forge:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:318) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[17Apr2022 21:32:03.871] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: null
+	Index: 4
+	Listeners:
+		0: HIGH
+		1: ASM: class meldexun.magicalconvergence.event.PlayerEventHandler onRightClickBlockEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		2: ASM: class me.shedaniel.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		3: NORMAL
+		4: ASM: class net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		5: ASM: class net.mcreator.undeadexpansion.procedures.SpiderSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		6: ASM: class com.ShteKen.endrem.events.ModEvents DisableUsingEnderEyes(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		7: ASM: com.dainxt.dungeonsmod.handlers.EventsHandler@4716c2d0 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		8: ASM: class net.mcreator.undeadexpansion.procedures.SkeletonSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		9: ASM: class net.mcreator.undeadexpansion.procedures.EndermanSpawnerProcedure$GlobalTrigger onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		10: ASM: org.infernalstudios.infernalexp.events.MiscEvents@40cbe9b1 onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		11: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@11d10caa onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		12: net.minecraftforge.eventbus.EventBus$$Lambda$2256/1426784247@122c8763
+		13: ASM: class com.minecolonies.coremod.event.EventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		14: ASM: class com.ma.progression.ProgressionEventHandler onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		15: ASM: class com.ma.events.CommonEventHandler onBlockActivated(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		16: ASM: vazkii.quark.content.building.module.BurnVinesModule@261933eb onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		17: ASM: vazkii.quark.content.building.module.ShallowDirtModule@395c0767 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		18: ASM: vazkii.quark.content.building.module.StoolsModule@282bbc itemUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		19: ASM: vazkii.quark.content.building.module.TieLeadsToFencesModule@51bc0464 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		20: ASM: vazkii.quark.content.tweaks.module.DirtToPathModule@19763f40 onRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		21: ASM: vazkii.quark.content.tweaks.module.EnhancedLaddersModule@37a5861c onInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		22: ASM: vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule@167684a3 onInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		23: ASM: vazkii.quark.content.tweaks.module.SignEditingModule@3f9a360c onInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		24: ASM: vazkii.quark.content.tweaks.module.SimpleHarvestModule@2dbf31d0 onClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		25: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6e4fd213 onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		26: ASM: com.natamus.stackrefill.events.RefillEvent@bd739a1 onBlockRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		27: ASM: class tictim.paraglider.event.ParagliderEventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		28: ASM: com.dainxt.dungeonsmod.handlers.EventsHandler@4716c2d0 onInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		29: ASM: com.minecolonies.coremod.permissions.ColonyPermissionEventHandler@5ed461b1 on(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		30: ASM: com.minecolonies.coremod.permissions.ColonyPermissionEventHandler@5e396f8a on(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		31: LOWEST
+		32: ASM: class harmonised.pmmo.events.EventHandler playerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+java.lang.NullPointerException
+	at com.mcwfurnitures.kikoz.storage.FurnitureTileEntityDouble.getCapability(FurnitureTileEntityDouble.java:172)
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$1.getItemStack(ZombieSpawnerProcedure.java:108)
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure.executeProcedure(ZombieSpawnerProcedure.java:114)
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$GlobalTrigger.onRightClickBlock(ZombieSpawnerProcedure.java:68)
+	at net.minecraftforge.eventbus.ASMEventHandler_81_GlobalTrigger_onRightClickBlock_RightClickBlock.invoke(.dynamic)
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:831)
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:318)
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958)
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36)
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10)
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21)
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734)
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717)
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127)
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+	at java.lang.Thread.run(Thread.java:748)
+
+[17Apr2022 21:32:03.871] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.mcwfurnitures.kikoz.storage.FurnitureTileEntityDouble.getCapability(FurnitureTileEntityDouble.java:172) ~[mcwfurnitures:1.0]
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$1.getItemStack(ZombieSpawnerProcedure.java:108) ~[undead_expansion:?]
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure.executeProcedure(ZombieSpawnerProcedure.java:114) ~[undead_expansion:?]
+	at net.mcreator.undeadexpansion.procedures.ZombieSpawnerProcedure$GlobalTrigger.onRightClickBlock(ZombieSpawnerProcedure.java:68) ~[undead_expansion:?]
+	at net.minecraftforge.eventbus.ASMEventHandler_81_GlobalTrigger_onRightClickBlock_RightClickBlock.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:831) ~[forge:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:318) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[17Apr2022 21:32:47.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> iceandfire:summoning_crystal_fire
+[17Apr2022 21:32:53.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> i gave one to alicia
+[17Apr2022 21:33:08.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> ok
+[17Apr2022 21:33:15.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> and she will need the saame thing but ice instead of fire
+[17Apr2022 21:33:19.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> already did it
+[17Apr2022 21:33:38.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> can you just give me like a stack oiif these things we need for the dumb sickness lol
+[17Apr2022 21:33:46.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> yah tell me what you need again
+[17Apr2022 21:33:49.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> ill go findout what it was one sec
+[17Apr2022 21:33:51.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> ok
+[17Apr2022 21:34:49.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> dandilion
+[17Apr2022 21:34:50.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> kelp
+[17Apr2022 21:34:51.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> popy
+[17Apr2022 21:35:12.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64    [Dandelion] to Ellariana
+[17Apr2022 21:35:23.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> poppy
+[17Apr2022 21:35:27.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64    [Kelp] to Ellariana
+[17Apr2022 21:35:33.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> im working on it
+[17Apr2022 21:35:45.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64    [Poppy] to Ellariana
+[17Apr2022 21:35:50.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> ok those were just flowers
+[17Apr2022 21:36:16.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> um i hit my ui somehow
+[17Apr2022 21:36:22.203] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:36:22.415] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:36:22.712] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:36:22.930] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:36:36.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> there are multiple UIs
+[17Apr2022 21:36:46.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> i like had to unbind them bc they're confusion
+[17Apr2022 21:36:56.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ellariana> it was F1 key
+[17Apr2022 21:36:59.163] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Clyde'/23153, l='ServerLevel[Mythica]', x=742.26, y=64.00, z=-8522.25] died, message: 'Clyde suffocated in a wall'
+[17Apr2022 21:38:10.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KirbyPaint> aight well alicia there's a silk touch pickaxe near the wizard tower in a single oak chest
+[17Apr2022 21:38:33.505] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KirbyPaint lost connection: Disconnected
+[17Apr2022 21:38:33.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KirbyPaint left the game
+[17Apr2022 21:41:22.230] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:41:22.452] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:41:22.660] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:41:22.868] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:41:25.205] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@362a55db
+[17Apr2022 21:46:22.107] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:46:22.392] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:46:22.604] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:46:22.824] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:51:22.139] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:51:22.347] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:51:22.554] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:51:22.764] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:56:22.113] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:56:22.353] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:56:22.564] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:56:22.780] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 21:57:48.012] [Server thread/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/I18n for invalid dist DEDICATED_SERVER
+[17Apr2022 21:57:48.012] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/resources/I18n for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:71) ~[forge-1.16.5-36.2.0.jar:36.2]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.0.9.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_312]
+	at com.ma.items.ritual.ItemRitualKit.func_195939_a(ItemRitualKit.java:165) ~[mana-and-artifice:1.3.0.6]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:644) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:187) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:353) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[17Apr2022 21:57:51.019] [Server thread/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/I18n for invalid dist DEDICATED_SERVER
+[17Apr2022 21:57:51.019] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/resources/I18n for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:71) ~[forge-1.16.5-36.2.0.jar:36.2]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.0.9.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_312]
+	at com.ma.items.ritual.ItemRitualKit.func_195939_a(ItemRitualKit.java:165) ~[mana-and-artifice:1.3.0.6]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:644) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:187) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:353) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[17Apr2022 21:57:53.314] [Server thread/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/I18n for invalid dist DEDICATED_SERVER
+[17Apr2022 21:57:53.314] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/resources/I18n for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:71) ~[forge-1.16.5-36.2.0.jar:36.2]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.0.9.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_312]
+	at com.ma.items.ritual.ItemRitualKit.func_195939_a(ItemRitualKit.java:165) ~[mana-and-artifice:1.3.0.6]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:644) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:187) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:353) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[17Apr2022 21:58:03.512] [Server thread/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/I18n for invalid dist DEDICATED_SERVER
+[17Apr2022 21:58:03.512] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/resources/I18n for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:71) ~[forge-1.16.5-36.2.0.jar:36.2]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.0.9.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_312]
+	at com.ma.items.ritual.ItemRitualKit.func_195939_a(ItemRitualKit.java:165) ~[mana-and-artifice:1.3.0.6]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:644) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:187) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:353) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[17Apr2022 21:58:08.613] [Server thread/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/I18n for invalid dist DEDICATED_SERVER
+[17Apr2022 21:58:08.613] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/resources/I18n for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:71) ~[forge-1.16.5-36.2.0.jar:36.2]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.0.9.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_312]
+	at com.ma.items.ritual.ItemRitualKit.func_195939_a(ItemRitualKit.java:165) ~[mana-and-artifice:1.3.0.6]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:644) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:187) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:353) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[17Apr2022 21:58:09.718] [Server thread/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/I18n for invalid dist DEDICATED_SERVER
+[17Apr2022 21:58:09.718] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/resources/I18n for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:71) ~[forge-1.16.5-36.2.0.jar:36.2]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.0.9.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_312]
+	at com.ma.items.ritual.ItemRitualKit.func_195939_a(ItemRitualKit.java:165) ~[mana-and-artifice:1.3.0.6]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:644) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:187) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:353) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[17Apr2022 21:59:42.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown item 'minecraft:1'
+[17Apr2022 21:59:42.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...ellariana 1 mana-and-artifice:wizard_chalk<--[HERE]
+[17Apr2022 22:00:37.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1    [Wizard Chalk] to Ellariana
+[17Apr2022 22:01:22.096] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:01:22.307] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:01:22.525] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:01:22.733] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:02:22.347] [Server thread/INFO] [minecolonies/]: Colony 1 - new AbstractBuilding for class net.minecraft.block.BlockState at BlockPos{x=1016, y=68, z=-8308}
+[17Apr2022 22:03:17.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 21    [Kelp] to Ellariana
+[17Apr2022 22:06:22.130] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:06:22.373] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:06:22.609] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:06:22.849] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:08:26.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[17Apr2022 22:08:26.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /givce ellariana minecraft:chiseled_stone_bricks 64<--[HERE]
+[17Apr2022 22:08:46.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64    [Chiseled Stone Bricks] to Ellariana
+[17Apr2022 22:09:08.225] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity VisitorCitizen['Geoffrey T. Gaur'/27946, l='ServerLevel[Mythica]', x=950.50, y=66.98, z=-8232.50]
+[17Apr2022 22:09:39.527] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1000, y=0, z=-7760} but found not block entity block Block{minecraft:bedrock} at location
+[17Apr2022 22:09:39.528] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=1000, y=0, z=-7760}
+[17Apr2022 22:11:10.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 154    [Andesite] to Ellariana
+[17Apr2022 22:11:24.769] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:11:24.982] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:11:25.192] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:11:25.404] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:11:25.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3802ms or 76 ticks behind
+[17Apr2022 22:11:47.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1    [Andesite] to Ellariana
+[17Apr2022 22:11:51.656] [Worker-Main-1864/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[17Apr2022 22:11:51.656] [Worker-Main-1864/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[17Apr2022 22:11:56.572] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from ecaa3d90-cb04-42fb-a503-843812089196 to d1aa1a31-d7c0-4b7f-b573-0b388c6222cd
+[17Apr2022 22:11:59.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=82, y=0, z=-5200} but found not block entity block Block{minecraft:bedrock} at location
+[17Apr2022 22:11:59.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=82, y=0, z=-5200}
+[17Apr2022 22:11:59.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=86, y=0, z=-5188} but found not block entity block Block{minecraft:bedrock} at location
+[17Apr2022 22:11:59.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=86, y=0, z=-5188}
+[17Apr2022 22:11:59.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=93, y=0, z=-5188} but found not block entity block Block{minecraft:bedrock} at location
+[17Apr2022 22:11:59.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=93, y=0, z=-5188}
+[17Apr2022 22:11:59.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=93, y=0, z=-5200} but found not block entity block Block{minecraft:bedrock} at location
+[17Apr2022 22:11:59.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=93, y=0, z=-5200}
+[17Apr2022 22:11:59.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=94, y=0, z=-5182} but found not block entity block Block{minecraft:bedrock} at location
+[17Apr2022 22:11:59.075] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=94, y=0, z=-5182}
+[17Apr2022 22:12:02.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1    [Campfire] to Ellariana
+[17Apr2022 22:12:14.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1    [Flower Pot] to Ellariana
+[17Apr2022 22:12:28.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 52    [Grass] to Ellariana
+[17Apr2022 22:13:25.472] [Worker-Main-1858/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[17Apr2022 22:13:25.472] [Worker-Main-1858/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[17Apr2022 22:14:11.458] [Worker-Main-1841/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[17Apr2022 22:14:11.459] [Worker-Main-1841/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[17Apr2022 22:14:18.314] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from bc328d52-9b50-4d59-ae45-b300036af28a to 606e060b-ded1-4381-8571-70aed52aa84e
+[17Apr2022 22:14:20.649] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from be125bab-690d-4ac3-b7de-f4adacb4c614 to bf8ea495-c073-4fe0-a51c-d773591c9a08
+[17Apr2022 22:14:29.610] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 68a0b45d-8751-4a7e-a447-e394e0d9b915 to 60066bbc-45e2-4819-a2c0-59623ca63caf
+[17Apr2022 22:14:51.274] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:deer from e6eb7a1e-03af-4a0c-9b38-80a1fc3fe26c to a757194d-989a-4481-aaca-62a3f2fb60ec
+[17Apr2022 22:14:51.274] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:deer from 92d6ba3c-7805-4515-be10-ee7483073d35 to b24e26de-3e4d-4e54-9c67-2234369de394
+[17Apr2022 22:14:51.274] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:deer from e811e41e-87fc-4a93-9a23-8af709eefa33 to 124217ee-0164-4d0e-aa32-fe9f66f17d1d
+[17Apr2022 22:15:41.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 2    [Colony Flag Banner] to Ellariana
+[17Apr2022 22:16:00.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1    [Hay Bale] to Ellariana
+[17Apr2022 22:16:15.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1    [Gray Bed] to Ellariana
+[17Apr2022 22:16:26.364] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:16:26.571] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:16:26.780] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:16:26.992] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:18:08.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown item 'structurize:timber_frames/paper'
+[17Apr2022 22:18:08.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...ellariana structurize:timber_frames/paper 12<--[HERE]
+[17Apr2022 22:18:52.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown item 'structureize:one_crossed_rl_oak_paper_timber_frame'
+[17Apr2022 22:18:52.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...ellariana structureize:one_crossed_rl_oak_paper_timber_frame 24<--[HERE]
+[17Apr2022 22:18:54.831] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:pig from 188acd86-6b1d-4ba0-b0b4-93a792a08dcb to 4854064b-7434-44f9-ad19-130b2cf8944d
+[17Apr2022 22:18:54.831] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:pig from a70ae80a-471a-4987-91c5-3f23abf2bcf0 to e51310b3-7632-4b07-8e2d-f87a60ff0833
+[17Apr2022 22:18:54.831] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:pig from 7adb0220-24ea-489c-b835-9c7696df5db7 to 88958fbd-5e5d-41e1-b297-5f4fcdd3255b
+[17Apr2022 22:18:54.831] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:pig from 2b247dcf-612d-4d83-98cf-d3fb0949b82c to 51f634f9-cab5-443f-9695-3d119b7c3a3c
+[17Apr2022 22:18:54.831] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:deer from 0fb2adc7-e67f-42c8-b23c-65af0f15174b to cb617855-c265-4079-bac9-926f96617ef5
+[17Apr2022 22:19:31.957] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:feralwolf from ffd734b2-3e24-4b6f-987a-e44c5dea5bfc to dbc1f7c3-dd46-495e-ad28-0d83d7cb4438
+[17Apr2022 22:19:31.957] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:feralwolf from e95a1765-c7b0-42e1-a4b1-6f932c716089 to 76e0ad19-9836-4044-8dc7-0c5c64d39d86
+[17Apr2022 22:19:31.957] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:feralwolf from 36842ae3-a0fd-40a7-9567-b95f46301d9c to 82b81e38-4feb-4c60-bb5f-c3b5787afa9c
+[17Apr2022 22:19:31.957] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:feralwolf from 807b6b10-a574-49bc-ab93-38ef3200b90f to f307eb6f-8cee-4357-9be3-8e095fe8642c
+[17Apr2022 22:19:58.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 2    [Oak Bookshelf] to Ellariana
+[17Apr2022 22:20:27.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 71    [Slate Oak Shingle] to Ellariana
+[17Apr2022 22:20:44.959] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[17Apr2022 22:20:44.959] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[17Apr2022 22:20:53.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 79    [Slate Shingle Slab] to Ellariana
+[17Apr2022 22:21:26.831] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:21:27.138] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:21:27.347] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:21:27.554] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:21:27.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[17Apr2022 22:21:31.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64    [Gravel] to Ellariana
+[17Apr2022 22:21:47.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 200    [Oak Slab] to Ellariana
+[17Apr2022 22:21:59.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 34    [Oak Stairs] to Ellariana
+[17Apr2022 22:22:29.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 43    [Stone] to Ellariana
+[17Apr2022 22:22:43.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64    [Torch] to Ellariana
+[17Apr2022 22:22:53.946] [Worker-Main-1858/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[17Apr2022 22:22:53.946] [Worker-Main-1858/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[17Apr2022 22:23:38.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown item 'minecraft:oak'
+[17Apr2022 22:23:38.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...ellariana minecraft:oak 100<--[HERE]
+[17Apr2022 22:23:50.323] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=28, y=24, z=-6302}
+[17Apr2022 22:23:50.323] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=29, y=31, z=-6297}
+[17Apr2022 22:23:50.324] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=36, y=21, z=-6303}
+[17Apr2022 22:23:50.324] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=36, y=25, z=-6301}
+[17Apr2022 22:23:52.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 124    [Oak Planks] to Ellariana
+[17Apr2022 22:24:08.263] [Worker-Main-1866/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[17Apr2022 22:24:08.263] [Worker-Main-1866/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[17Apr2022 22:24:08.263] [Worker-Main-1866/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[17Apr2022 22:24:08.264] [Worker-Main-1866/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[17Apr2022 22:24:08.967] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=244, y=25, z=-6765} but found not block entity block Block{minecraft:air} at location
+[17Apr2022 22:24:08.967] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=244, y=25, z=-6765}
+[17Apr2022 22:24:16.107] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=239, y=23, z=-6829} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:24:16.107] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=239, y=23, z=-6829}
+[17Apr2022 22:24:16.107] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=226, y=26, z=-6830} but found not block entity block Block{minecraft:cave_air} at location
+[17Apr2022 22:24:16.107] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=226, y=26, z=-6830}
+[17Apr2022 22:24:16.107] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=227, y=26, z=-6832} but found not block entity block Block{minecraft:cave_air} at location
+[17Apr2022 22:24:16.107] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=227, y=26, z=-6832}
+[17Apr2022 22:24:16.107] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=225, y=29, z=-6830} but found not block entity block Block{minecraft:cave_air} at location
+[17Apr2022 22:24:16.107] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=225, y=29, z=-6830}
+[17Apr2022 22:24:16.107] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=238, y=23, z=-6820} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:24:16.107] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=238, y=23, z=-6820}
+[17Apr2022 22:24:16.207] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=234, y=27, z=-6839} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:24:16.207] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=234, y=27, z=-6839}
+[17Apr2022 22:24:17.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 200    [Oak Planks] to Ellariana
+[17Apr2022 22:24:28.403] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=246, y=23, z=-6817} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:24:28.403] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=246, y=23, z=-6817}
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=253, y=27, z=-6826} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=253, y=27, z=-6826}
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=241, y=23, z=-6818} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=241, y=23, z=-6818}
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=241, y=21, z=-6818} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=241, y=21, z=-6818}
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=242, y=23, z=-6830} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=242, y=23, z=-6830}
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=251, y=24, z=-6823} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=251, y=24, z=-6823}
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=248, y=23, z=-6830} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=248, y=23, z=-6830}
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=254, y=36, z=-6823} but found not block entity block Block{minecraft:cave_air} at location
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=254, y=36, z=-6823}
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=246, y=23, z=-6824} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=246, y=23, z=-6824}
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=244, y=23, z=-6822} but found not block entity block Block{minecraft:iron_ore} at location
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:iron_ore} but failed at location BlockPos{x=244, y=23, z=-6822}
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=252, y=25, z=-6829} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:24:28.404] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=252, y=25, z=-6829}
+[17Apr2022 22:24:35.358] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 5ce83975-3264-4620-ac71-93de9e78c192 to 55286021-2fcb-4714-8768-a6cc0c244fd0
+[17Apr2022 22:24:59.940] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=202, y=0, z=-7684} but found not block entity block Block{minecraft:bedrock} at location
+[17Apr2022 22:24:59.940] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=202, y=0, z=-7684}
+[17Apr2022 22:24:59.940] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=201, y=0, z=-7684} but found not block entity block Block{minecraft:bedrock} at location
+[17Apr2022 22:24:59.940] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=201, y=0, z=-7684}
+[17Apr2022 22:25:11.658] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=700, y=0, z=-7681} but found not block entity block Block{minecraft:bedrock} at location
+[17Apr2022 22:25:11.658] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=700, y=0, z=-7681}
+[17Apr2022 22:25:11.912] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 523e6160-4cef-4fd4-8414-e2c2d8e2514c to b3f3e9a4-8e7e-4cdc-8710-d5f0ee183f3b
+[17Apr2022 22:25:22.499] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityPiranha from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[17Apr2022 22:26:28.326] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:26:28.537] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:26:28.748] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:26:28.974] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:27:47.784] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1354, y=38, z=-8789} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:27:47.784] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1354, y=38, z=-8789}
+[17Apr2022 22:27:48.325] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1367, y=42, z=-8788} but found not block entity block Block{goblinsanddungeons:scoria} at location
+[17Apr2022 22:27:48.325] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{goblinsanddungeons:scoria} but failed at location BlockPos{x=1367, y=42, z=-8788}
+[17Apr2022 22:27:48.325] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1370, y=34, z=-8788} but found not block entity block Block{minecraft:diorite} at location
+[17Apr2022 22:27:48.325] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:diorite} but failed at location BlockPos{x=1370, y=34, z=-8788}
+[17Apr2022 22:27:48.325] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1364, y=30, z=-8788} but found not block entity block Block{quark:stone_speleothem}[size=small,waterlogged=false] at location
+[17Apr2022 22:27:48.325] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:stone_speleothem}[size=small,waterlogged=false] but failed at location BlockPos{x=1364, y=30, z=-8788}
+[17Apr2022 22:29:24.253] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:songbird from 348eae2d-a3be-4f6c-b4ee-ae3dff23a2f6 to c896986b-f002-419f-b2b0-cfb1f78c9eb1
+[17Apr2022 22:29:28.972] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 6ed4d1f8-c84c-4975-b6d1-567a0027e0df to 27720f68-daa0-4f8f-9727-4c91098196b8
+[17Apr2022 22:29:45.826] [Server thread/INFO] [harmonised.pmmo.network.MessageLevelUp/]: Ellariana has reached level 48 in woodcutting! [minecraft:overworld|x:1056.91|y:70.00|z:-8263.42]
+[17Apr2022 22:30:14.774] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:parrot from 982f291a-16cf-4976-8502-ed7ec2c66ff4 to 724685ac-0213-48f6-90bf-1d98f4d6c50f
+[17Apr2022 22:30:32.749] [Worker-Main-1867/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityReindeer from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[17Apr2022 22:30:48.323] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from 266a9685-f373-4d37-b802-3151e4409d86 to 68b7be4f-0507-4c44-88e7-c0e8f90110df
+[17Apr2022 22:31:28.673] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:31:28.885] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:31:29.095] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:31:29.303] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:33:15.499] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBarracuda from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[17Apr2022 22:33:15.500] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFlyingFish from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[17Apr2022 22:33:15.500] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFlyingFish from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[17Apr2022 22:33:18.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1    [Oak Pressure Plate] to Ellariana
+[17Apr2022 22:33:29.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1    [Orange Tulip] to Ellariana
+[17Apr2022 22:33:37.711] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 9395a37b-02d8-4d0c-994f-661b75785f05 to f04f1a95-a37a-4567-b144-3a724ccd0e30
+[17Apr2022 22:33:37.711] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 21aab02a-5ddb-470c-bf25-a2f7a9f3a32b to 3b8a2a51-49d9-405f-8fc8-34ff5a1fa49e
+[17Apr2022 22:33:41.509] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityOctopus from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[17Apr2022 22:33:44.394] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from ed522372-6bd8-4382-9769-087ae6d7fb36 to 16975e85-2d06-4111-a497-af74868ded4c
+[17Apr2022 22:33:44.448] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:lammergeier from 2bf44452-e53c-4385-a71a-93037d7d931f to f658c24b-4acf-445a-92dd-ba5c72c07c17
+[17Apr2022 22:33:44.563] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 42f91176-b86f-4e3c-81f6-a02c06ef7550 to bd5eddf7-4e03-4e67-b613-099cc925880e
+[17Apr2022 22:33:44.563] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from f1b14fa2-d3aa-4565-b026-0faf907eafcb to b10c287b-0699-4a43-a575-5e8cf4b8a722
+[17Apr2022 22:33:44.586] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from c7ecc930-264e-4f21-976a-31f2fbad3ad2 to e133ab0d-2270-4eb0-93fd-0e2951de1119
+[17Apr2022 22:33:44.586] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 36808a88-76b1-42a8-9f90-875a07437f83 to 448bbb08-735d-4c3b-bc2e-27a2b8ba9dc8
+[17Apr2022 22:33:44.587] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 767f4fb5-7ea7-4f81-b2b2-9ec4af13e132 to 1e77ee0f-00ad-488a-a0f6-ff1d3150f281
+[17Apr2022 22:33:44.587] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 56f3dfa0-bb8d-45e0-95b3-7d5b6f7bfcd0 to 653bac77-a667-4af8-a7a6-20b3793f92c9
+[17Apr2022 22:33:44.587] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from d4306f9c-d0dc-4313-9c98-2cf027437019 to f4d905e6-3067-4e63-b71d-efbef882c84e
+[17Apr2022 22:33:45.370] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from b9e82914-44cf-4d43-a372-885df1eb5946 to 68f5ac36-dc71-4c44-ae0c-765741589617
+[17Apr2022 22:33:45.370] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 6afc90da-b08a-416d-95e4-463e2e2eed6f to a95a38a1-79b8-44ff-b952-291a1e942afd
+[17Apr2022 22:33:45.370] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from e3c1929b-bf13-4a33-949f-52a146eb442d to 173e1f17-0709-497b-b52a-a32c16918759
+[17Apr2022 22:33:45.370] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 1f3fe260-d817-4680-8ca2-3fcd7e7348f2 to 0fd4f3f0-a0b8-49f5-ab56-9e7daed149fe
+[17Apr2022 22:33:45.497] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 62a7bdf5-08c9-40fa-8de6-09551361a0d3 to 38b7e7ca-bd05-4e11-8eb6-ac52604fd869
+[17Apr2022 22:33:45.497] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from dec3a4a2-92e5-4d48-9e4b-cf1cf3ee9924 to ff109dac-6ef1-4a32-adba-71fe3e2a5637
+[17Apr2022 22:33:45.513] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 72e884ee-d05a-4b70-8669-2a04e54754e8 to 7918bf69-8d0f-460a-a100-6deeb2571fd6
+[17Apr2022 22:33:45.513] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from ad3d2c97-a866-44d7-8c03-11fd0e04f142 to b4d3f44c-e17a-4874-a6be-88f03e5ebc7f
+[17Apr2022 22:33:45.513] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from 7c9a9fdf-4a61-4db1-8646-a05702143574 to 95201df2-baa6-4c80-964b-f7abeb5d7b63
+[17Apr2022 22:33:47.529] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from 144ef70c-60cb-4a1b-9785-e87105d4ce77 to f991ff72-6fab-43cf-95a9-307084653024
+[17Apr2022 22:33:47.625] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:tnt_minecart from c7303ef3-f5d2-43bd-81e5-5e88cba6e837 to bc52b2c3-5f37-4a21-b56a-f9360bd9c286
+[17Apr2022 22:33:47.692] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from ba15eb7b-96fa-48a9-b493-ce638998da1e to 6594905d-23a7-4e2c-8a39-d1df3eda8566
+[17Apr2022 22:33:47.692] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity iceandfire:deathworm from e85d6174-f03d-4015-b5e4-998812aacbd8 to 847c6d1f-c21c-43af-8667-3ebdc47588ea
+[17Apr2022 22:33:47.767] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:tnt_minecart from be32b569-9284-4d2b-a1ce-9bf0ccef49da to c3c65274-6b3f-42c5-be2e-b75ca8815bf9
+[17Apr2022 22:33:48.682] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 06ef9bc6-c004-4aa7-90d8-6beed323b60f to cb3b14b2-7ba1-487e-ae50-3d7a7eccf0ed
+[17Apr2022 22:33:48.682] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from edb56012-9307-45a0-906e-22dd6bf37644 to 307e6bc2-1ccf-4cab-9b0e-e0527a1c9987
+[17Apr2022 22:33:48.682] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 79d2de9b-818c-4282-82c1-fc0bc9774ba1 to 68137203-a06b-40f8-bd7d-b0218e664e23
+[17Apr2022 22:33:48.682] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:coyote from 6c2faa9d-d903-4bb6-a88d-3370b499eee0 to 3cefad73-292f-4d40-8aa9-e5ea7e2eb42c
+[17Apr2022 22:33:48.694] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from ffe1020f-1a19-4fd1-8b07-6c8980e7675b to 9fd30707-c3d5-4d1c-83d9-43734b0b97d1
+[17Apr2022 22:33:48.773] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chest_minecart from 518558ee-7086-41d8-aa23-fb4416857ed5 to 121d545b-d8da-42bd-8cff-ef92b067ccf8
+[17Apr2022 22:33:48.773] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:rabbit from e157c437-b736-4f33-b2a2-f08410bd0d2a to e0405790-1923-42fb-9f01-52b010efab73
+[17Apr2022 22:33:50.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64    [Polished Andesite] to Ellariana
+[17Apr2022 22:33:51.883] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity artifacts:mimic from 33324eda-ccc1-416d-86d0-e1104c9a155f to 48775970-3fd1-4ead-b283-b78201cc9a71
+[17Apr2022 22:33:51.883] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:goat from 583e1b0a-759a-439d-8e95-daabdcda5067 to 695bc1d6-5ca3-4d3b-9e56-b41b86495f36
+[17Apr2022 22:33:51.883] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity betteranimalsplus:goat from 6dbcf57f-916e-44f2-a74d-814255644b60 to eb80524b-c8eb-4c70-85e8-9f2c31e0230e
+[17Apr2022 22:34:18.500] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityTarantula from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[17Apr2022 22:35:16.734] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4730, y=30, z=-9519} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:35:16.734] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=4730, y=30, z=-9519}
+[17Apr2022 22:35:16.734] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4726, y=31, z=-9517} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:35:16.734] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=4726, y=31, z=-9517}
+[17Apr2022 22:35:16.747] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4739, y=26, z=-9506} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:35:16.747] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=4739, y=26, z=-9506}
+[17Apr2022 22:35:16.747] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4740, y=26, z=-9512} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:35:16.747] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=4740, y=26, z=-9512}
+[17Apr2022 22:35:16.747] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4740, y=26, z=-9511} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:35:16.747] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=4740, y=26, z=-9511}
+[17Apr2022 22:35:16.747] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4736, y=26, z=-9511} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:35:16.747] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=4736, y=26, z=-9511}
+[17Apr2022 22:35:18.174] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4729, y=37, z=-9523} but found not block entity block Block{minecraft:stone} at location
+[17Apr2022 22:35:18.174] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=4729, y=37, z=-9523}
+[17Apr2022 22:35:31.414] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity mowziesmobs:ferrous_wroughtnaut from 30c4cc49-d713-4d64-8fea-992246016943 to 2fb2e6f5-770d-4994-8947-9581114e647e
+[17Apr2022 22:35:45.905] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ASwarmOfBees lost connection: Disconnected
+[17Apr2022 22:35:45.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ASwarmOfBees left the game
+[17Apr2022 22:36:27.881] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:36:28.088] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:36:28.297] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:36:28.506] [Server thread/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Value 10 outside of range [0:7]
+[17Apr2022 22:37:01.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64    [Paper] to Ellariana

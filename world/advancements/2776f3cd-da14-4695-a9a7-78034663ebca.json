@@ -1482,19 +1482,25 @@
   "outer_end:end/explore_end": {
     "criteria": {
       "find_outer_end:crystal_crag": "2022-04-03 14:13:03 -0700",
+      "find_minecraft:end_barrens": "2022-04-18 22:52:01 -0700",
       "find_betterendforge:dragon_graveyards": "2022-04-03 21:47:56 -0700",
       "find_betterendforge:dry_shrubland": "2021-08-22 22:56:48 -0700",
       "find_betterendforge:lantern_woods": "2022-03-15 19:57:13 -0700",
       "find_betterendforge:neon_oasis": "2022-04-03 14:07:03 -0700",
+      "find_minecraft:the_end": "2022-04-18 22:50:18 -0700",
       "find_betterendforge:megalake_grove": "2022-04-03 22:54:51 -0700",
       "find_betterendforge:crystal_mountains": "2021-08-22 22:49:27 -0700",
       "find_betterendforge:glowing_grasslands": "2022-04-03 21:47:41 -0700",
       "find_outer_end:azure_forest": "2022-04-03 22:53:47 -0700",
+      "find_minecraft:small_end_islands": "2022-04-18 22:56:01 -0700",
       "find_betterendforge:umbrella_jungle": "2022-04-03 23:15:59 -0700",
+      "find_minecraft:end_highlands": "2022-04-18 22:52:15 -0700",
       "find_betterendforge:ice_starfield": "2022-04-03 23:02:10 -0700",
       "find_betterendforge:blossoming_spires": "2022-04-03 14:06:51 -0700",
+      "find_betterendforge:painted_mountains": "2022-04-18 22:54:12 -0700",
       "find_betterendforge:shadow_forest": "2022-04-03 14:09:07 -0700",
-      "find_betterendforge:amber_land": "2022-04-03 14:07:31 -0700"
+      "find_betterendforge:amber_land": "2022-04-03 14:07:31 -0700",
+      "find_betterendforge:dust_wastelands": "2022-04-18 22:54:16 -0700"
     },
     "done": false
   },
@@ -2248,6 +2254,12 @@
     },
     "done": true
   },
+  "awesomedungeon:witch_castle/find_normal": {
+    "criteria": {
+      "requirement": "2022-04-18 18:31:51 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/side_framed_oak_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:48 -0700"
@@ -2654,6 +2666,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-08-21 13:16:17 -0700"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_rotten_flesh": {
+    "criteria": {
+      "citizen_eat_rotten_flesh": "2022-04-18 20:28:54 -0700"
     },
     "done": true
   },
@@ -8802,6 +8820,12 @@
     },
     "done": true
   },
+  "minecolonies:production/build_blacksmith": {
+    "criteria": {
+      "smeltery": "2022-04-18 15:35:45 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/up_gated_jungle_oak_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:34 -0700"
@@ -9099,6 +9123,12 @@
   "structurize:recipes/structurize.timber_frames/framed_spruce_green_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-04-18 22:50:18 -0700"
     },
     "done": true
   },
@@ -11397,6 +11427,12 @@
   "structurize:recipes/structurize.timber_frames/up_gated_warped_stone_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:48 -0700"
+    },
+    "done": true
+  },
+  "awesomedungeon:the_usine/find_normal": {
+    "criteria": {
+      "requirement": "2022-04-18 19:16:04 -0700"
     },
     "done": true
   },
@@ -13981,6 +14017,12 @@
     },
     "done": true
   },
+  "endrem:main/black_pearl": {
+    "criteria": {
+      "black_pearl": "2022-04-18 19:49:50 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/warped/warped_plant_pot_right": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:45 -0700"
@@ -16088,6 +16130,12 @@
     },
     "done": true
   },
+  "awesomedungeon:abandoned_oak/find_normal": {
+    "criteria": {
+      "requirement": "2022-04-18 21:06:39 -0700"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/lucernia_door": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:35 -0700"
@@ -17468,6 +17516,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-08-23 13:11:09 -0700"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_tavern": {
+    "criteria": {
+      "citizens_hut": "2022-04-18 15:41:29 -0700"
     },
     "done": true
   },
@@ -19061,6 +19115,12 @@
   "structurize:recipes/structurize.timber_frames/plain_spruce_spruce_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:31 -0700"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_the_column_temple/find_normal": {
+    "criteria": {
+      "requirement": "2022-04-18 19:39:37 -0700"
     },
     "done": true
   },
@@ -21635,6 +21695,7 @@
       "minecraft:stray": "2021-08-23 22:16:37 -0700",
       "minecraft:silverfish": "2021-09-09 20:25:32 -0700",
       "minecraft:enderman": "2022-03-13 17:57:41 -0700",
+      "minecraft:vex": "2022-04-18 22:40:11 -0700",
       "minecraft:zombie": "2021-08-21 13:23:33 -0700",
       "minecraft:drowned": "2021-09-11 22:29:07 -0700",
       "minecraft:zombie_villager": "2021-09-10 21:25:04 -0700"
@@ -23535,6 +23596,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/big_orange_glazed_jar": {
     "criteria": {
       "has_item": "2021-08-22 22:54:50 -0700"
+    },
+    "done": true
+  },
+  "awesomedungeon:root": {
+    "criteria": {
+      "awesomedungeon:the_z_tower": "2022-04-18 17:55:43 -0700"
     },
     "done": true
   },
@@ -28414,6 +28481,12 @@
     },
     "done": true
   },
+  "mutantmore:mutantmore/root": {
+    "criteria": {
+      "crafting_table": "2022-04-18 23:48:42 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_warped_stone_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:33 -0700"
@@ -29386,6 +29459,12 @@
     },
     "done": true
   },
+  "minecolonies:production/build_smeltery": {
+    "criteria": {
+      "smeltery": "2022-04-18 16:55:40 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_cactus_purple_terracotta_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:37 -0700"
@@ -30079,6 +30158,12 @@
     },
     "done": true
   },
+  "awesomedungeon:the_ztower/find_normal": {
+    "criteria": {
+      "requirement": "2022-04-18 17:55:43 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/side_framed_dark_oak_brown_stone_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:42 -0700"
@@ -30526,6 +30611,12 @@
   "structurize:recipes/structurize.timber_frames/horizontal_plain_jungle_red_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:42 -0700"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/scoria_brick_slab": {
+    "criteria": {
+      "has_item": "2022-04-18 15:37:55 -0700"
     },
     "done": true
   },
@@ -31771,6 +31862,12 @@
     },
     "done": true
   },
+  "endrem:main/find_end_castle": {
+    "criteria": {
+      "in_end_castle": "2022-04-18 22:39:47 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/down_gated_birch_beige_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:46 -0700"
@@ -32268,6 +32365,12 @@
       "has_the_recipe": "2022-04-16 14:33:45 -0700"
     },
     "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/goblin_slayer": {
+    "criteria": {
+      "gob": "2022-04-18 15:37:14 -0700"
+    },
+    "done": false
   },
   "structurize:recipes/structurize.timber_frames/plain_dark_oak_red_terracotta_timber_frame_crafted": {
     "criteria": {
@@ -35600,6 +35703,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-04-18 22:50:18 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/horizontal_plain_dark_oak_oak_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:34 -0700"
@@ -35851,6 +35960,7 @@
       "minecraft:mushroom_fields": "2022-03-21 14:26:51 -0700",
       "minecraft:taiga": "2021-08-22 23:00:19 -0700",
       "minecraft:desert_hills": "2021-08-29 14:08:42 -0700",
+      "minecraft:giant_tree_taiga": "2022-04-18 15:03:25 -0700",
       "minecraft:deep_cold_ocean": "2021-09-12 20:37:47 -0700",
       "minecraft:snowy_tundra": "2021-08-21 14:07:59 -0700",
       "minecraft:taiga_hills": "2021-08-22 23:00:47 -0700",
@@ -35876,6 +35986,7 @@
       "minecraft:bamboo_jungle_hills": "2022-04-03 21:52:02 -0700",
       "minecraft:wooded_hills": "2021-08-21 11:19:34 -0700",
       "minecraft:stone_shore": "2021-08-22 23:19:56 -0700",
+      "minecraft:giant_tree_taiga_hills": "2022-04-18 15:03:24 -0700",
       "minecraft:wooded_badlands_plateau": "2021-09-12 21:08:40 -0700",
       "minecraft:mushroom_field_shore": "2022-03-21 14:26:55 -0700",
       "minecraft:swamp": "2021-08-24 22:29:16 -0700",
@@ -35883,7 +35994,7 @@
       "minecraft:savanna": "2021-08-29 14:10:03 -0700",
       "minecraft:plains": "2021-08-27 21:31:59 -0700"
     },
-    "done": false
+    "done": true
   },
   "mcwfurnitures:recipes/oak/oak_glass_desk_left": {
     "criteria": {

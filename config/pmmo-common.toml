@@ -38,7 +38,7 @@
 
 ["Anti Cheese"]
 	#Should player xp rates be reduced while they afk?
-	antiCheeseEnabled = true
+	antiCheeseEnabled = false
 	#How many points of Cheese is the maximum? (At maximum, the xp gain is at minimum, which is the minimumCheeseXpMultiplier value)
 	#Range: 1 ~ 1000000000
 	cheeseMaxStorage = 200

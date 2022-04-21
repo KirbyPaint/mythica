@@ -929,6 +929,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2022-04-18 19:52:06 -0700"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_nugget_from_sword_smelting": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:43 -0700"
@@ -1499,6 +1505,7 @@
     "criteria": {
       "find_betterendforge:dry_shrubland": "2021-08-22 22:56:53 -0700",
       "find_betterendforge:neon_oasis": "2022-04-02 01:23:40 -0700",
+      "find_minecraft:the_end": "2022-04-18 22:50:39 -0700",
       "find_betterendforge:megalake_grove": "2022-04-02 01:27:47 -0700",
       "find_betterendforge:crystal_mountains": "2021-08-21 13:52:42 -0700",
       "find_betterendforge:blossoming_spires": "2022-04-03 10:50:28 -0700",
@@ -1516,6 +1523,12 @@
   "betterendforge:recipes/misc/cyan_dye_from_cyan_charnia": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:36 -0700"
+    },
+    "done": true
+  },
+  "dungeonsmod:dungeons/crawler": {
+    "criteria": {
+      "kill_crawler": "2022-04-18 20:09:12 -0700"
     },
     "done": true
   },
@@ -2254,6 +2267,12 @@
   "structurize:recipes/structurize.timber_frames/one_crossed_rl_warped_cyan_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:45 -0700"
+    },
+    "done": true
+  },
+  "awesomedungeon:witch_castle/find_normal": {
+    "criteria": {
+      "requirement": "2022-04-18 19:16:29 -0700"
     },
     "done": true
   },
@@ -6979,6 +6998,12 @@
     },
     "done": true
   },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_oak": "2022-04-18 19:31:46 -0700"
+    },
+    "done": false
+  },
   "betterendforge:recipes/misc/stick_from_needlegrass": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:31 -0700"
@@ -7648,6 +7673,12 @@
   "structurize:recipes/structurize.timber_frames/up_gated_cactus_magenta_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:32 -0700"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "beginning_village": "2022-04-18 19:46:13 -0700"
     },
     "done": true
   },
@@ -8773,6 +8804,12 @@
     },
     "done": true
   },
+  "minecolonies:production/build_blacksmith": {
+    "criteria": {
+      "smeltery": "2022-04-18 15:35:45 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/up_gated_jungle_oak_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:31 -0700"
@@ -9070,6 +9107,12 @@
   "structurize:recipes/structurize.timber_frames/framed_spruce_green_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-04-18 22:50:38 -0700"
     },
     "done": true
   },
@@ -11350,6 +11393,12 @@
   "structurize:recipes/structurize.timber_frames/up_gated_warped_stone_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:46 -0700"
+    },
+    "done": true
+  },
+  "awesomedungeon:the_usine/find_normal": {
+    "criteria": {
+      "requirement": "2022-04-18 19:22:43 -0700"
     },
     "done": true
   },
@@ -18997,6 +19046,12 @@
     },
     "done": true
   },
+  "awesomedungeonocean:ocean_the_column_temple/find_normal": {
+    "criteria": {
+      "requirement": "2022-04-18 19:38:57 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/up_gated_jungle_brown_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:38 -0700"
@@ -21561,6 +21616,7 @@
     "criteria": {
       "minecraft:pillager": "2021-08-21 11:21:46 -0700",
       "minecraft:skeleton": "2021-08-20 09:58:50 -0700",
+      "minecraft:vindicator": "2022-04-18 22:41:07 -0700",
       "minecraft:spider": "2021-08-18 13:32:39 -0700",
       "minecraft:piglin_brute": "2021-09-09 22:23:22 -0700",
       "minecraft:creeper": "2021-08-20 10:34:07 -0700",
@@ -23473,6 +23529,12 @@
   "spartanweaponry:spear": {
     "criteria": {
       "craft": "2021-08-22 23:37:05 -0700"
+    },
+    "done": true
+  },
+  "awesomedungeon:root": {
+    "criteria": {
+      "awesomedungeon:witch_castle": "2022-04-18 19:16:29 -0700"
     },
     "done": true
   },
@@ -29338,6 +29400,12 @@
     },
     "done": true
   },
+  "minecolonies:production/build_smeltery": {
+    "criteria": {
+      "smeltery": "2022-04-18 16:55:40 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_cactus_purple_terracotta_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:35 -0700"
@@ -30118,6 +30186,12 @@
   "structurize:recipes/structurize.timber_frames/framed_cactus_jungle_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:41 -0700"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2022-04-18 19:46:12 -0700"
     },
     "done": true
   },
@@ -31633,6 +31707,12 @@
     },
     "done": true
   },
+  "endrem:main/magical_pearl": {
+    "criteria": {
+      "magical_pearl": "2022-04-18 22:40:06 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2021-08-19 23:09:01 -0700"
@@ -31720,6 +31800,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-08-23 22:07:02 -0700"
+    },
+    "done": true
+  },
+  "endrem:main/find_end_castle": {
+    "criteria": {
+      "in_end_castle": "2022-04-18 22:40:07 -0700"
     },
     "done": true
   },
@@ -35546,6 +35632,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-04-18 22:50:38 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/horizontal_plain_dark_oak_oak_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 13:40:31 -0700"
@@ -35800,6 +35892,7 @@
       "minecraft:taiga_hills": "2021-08-21 14:01:03 -0700",
       "minecraft:desert": "2021-08-21 13:50:23 -0700",
       "minecraft:frozen_river": "2021-08-28 10:28:50 -0700",
+      "minecraft:deep_frozen_ocean": "2022-04-18 19:14:23 -0700",
       "minecraft:jungle": "2022-03-21 01:03:27 -0700",
       "minecraft:birch_forest": "2021-08-21 13:55:41 -0700",
       "minecraft:jungle_hills": "2022-03-21 01:05:36 -0700",

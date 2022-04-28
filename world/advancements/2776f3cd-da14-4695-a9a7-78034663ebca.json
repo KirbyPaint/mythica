@@ -21624,6 +21624,7 @@
     "criteria": {
       "in_mineshaft_swamp": "2021-09-09 14:31:40 -0700",
       "in_mineshaft_desert": "2021-09-09 20:32:27 -0700",
+      "in_mineshaft_jungle": "2022-04-21 22:18:22 -0700",
       "in_mineshaft_taiga": "2022-03-20 18:38:10 -0700",
       "in_mineshaft_savanna": "2021-09-09 15:55:15 -0700"
     },
@@ -31769,6 +31770,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2022-03-18 21:54:02 -0700"
+    },
+    "done": true
+  },
+  "endrem:main/magical_pearl": {
+    "criteria": {
+      "magical_pearl": "2022-04-19 23:16:42 -0700"
     },
     "done": true
   },

@@ -33428,6 +33428,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/cut_oak_post": {
+    "criteria": {
+      "has_item": "2022-05-01 00:06:39 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_oak_dark_oak_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 21:31:37 -0700"

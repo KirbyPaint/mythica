@@ -755,6 +755,12 @@
     },
     "done": true
   },
+  "goblinsanddungeons:goblinsanddungeons/center_of_the_labyrinth": {
+    "criteria": {
+      "ruined_keep": "2022-05-02 11:25:26 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/horizontal_plain_cactus_warped_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 21:31:22 -0700"
@@ -1514,16 +1520,23 @@
   },
   "outer_end:end/explore_end": {
     "criteria": {
+      "find_minecraft:end_barrens": "2022-05-05 19:28:04 -0700",
+      "find_outer_end:crystal_crag": "2022-05-05 19:50:03 -0700",
       "find_betterendforge:neon_oasis": "2022-04-02 20:44:35 -0700",
       "find_betterendforge:sulphur_springs": "2022-04-03 15:15:38 -0700",
       "find_minecraft:the_end": "2022-04-18 22:50:08 -0700",
       "find_betterendforge:megalake_grove": "2022-04-01 19:41:31 -0700",
       "find_betterendforge:glowing_grasslands": "2022-04-16 23:28:33 -0700",
       "find_outer_end:azure_forest": "2022-04-02 18:39:10 -0700",
+      "find_betterendforge:foggy_mushroomland": "2022-05-05 19:57:53 -0700",
+      "find_minecraft:end_midlands": "2022-05-05 19:33:25 -0700",
+      "find_betterendforge:chorus_forest": "2022-05-05 19:28:01 -0700",
       "find_betterendforge:umbrella_jungle": "2022-04-01 19:39:29 -0700",
       "find_betterendforge:ice_starfield": "2022-04-02 20:33:41 -0700",
       "find_betterendforge:blossoming_spires": "2022-04-02 18:37:55 -0700",
-      "find_betterendforge:amber_land": "2022-04-01 19:29:19 -0700"
+      "find_betterendforge:painted_mountains": "2022-05-05 19:41:25 -0700",
+      "find_betterendforge:amber_land": "2022-04-01 19:29:19 -0700",
+      "find_betterendforge:dust_wastelands": "2022-05-05 19:33:26 -0700"
     },
     "done": false
   },
@@ -11250,6 +11263,12 @@
     },
     "done": true
   },
+  "goblinsanddungeons:goblinsanddungeons/end_of_the_labyrinth": {
+    "criteria": {
+      "killed_something": "2022-05-02 11:26:19 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/one_crossed_rl_crimson_bricks_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 21:31:36 -0700"
@@ -15210,6 +15229,7 @@
       "in_pyramid_mushroom": "2021-08-30 21:00:29 -0700",
       "in_pyramid_icy": "2021-09-02 21:57:31 -0700",
       "in_pyramid_ocean": "2021-08-29 19:36:46 -0700",
+      "in_pyramid_nether": "2022-05-01 13:45:28 -0700",
       "in_pyramid_badlands": "2021-08-27 18:26:36 -0700",
       "in_pyramid_snowy": "2021-09-04 20:51:12 -0700",
       "in_pyramid_flower_forest": "2021-08-31 19:01:24 -0700"
@@ -15537,6 +15557,12 @@
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_crimson_beige_stone_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 21:31:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-05-02 17:11:54 -0700"
     },
     "done": true
   },
@@ -17666,6 +17692,7 @@
       "cooked_porkchop": "2021-08-19 20:33:03 -0700",
       "cooked_mutton": "2021-08-19 22:53:40 -0700",
       "cooked_beef": "2021-08-19 22:13:07 -0700",
+      "chorus_fruit": "2022-05-05 20:41:01 -0700",
       "baked_potato": "2021-08-19 20:10:58 -0700",
       "potato": "2021-08-21 00:24:05 -0700",
       "cooked_cod": "2021-08-20 21:43:35 -0700",
@@ -21775,6 +21802,7 @@
       "minecraft:wither_skeleton": "2021-08-25 22:51:38 -0700",
       "minecraft:husk": "2021-08-27 18:26:56 -0700",
       "minecraft:ender_dragon": "2022-04-20 22:44:23 -0700",
+      "minecraft:shulker": "2022-05-05 19:35:57 -0700",
       "minecraft:cave_spider": "2021-08-21 22:55:21 -0700",
       "minecraft:piglin": "2021-09-09 21:39:06 -0700",
       "minecraft:enderman": "2021-08-20 22:39:24 -0700",
@@ -24427,6 +24455,12 @@
       "has_the_recipe": "2022-04-16 21:31:36 -0700"
     },
     "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2022-05-05 19:46:42 -0700"
+    },
+    "done": false
   },
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_cactus_lime_terracotta_timber_frame": {
     "criteria": {
@@ -32505,7 +32539,12 @@
   },
   "goblinsanddungeons:goblinsanddungeons/goblin_slayer": {
     "criteria": {
-      "gob": "2022-04-19 22:20:49 -0700"
+      "goblo": "2022-05-02 11:26:29 -0700",
+      "garch": "2022-05-02 11:25:47 -0700",
+      "goom": "2022-05-02 11:25:45 -0700",
+      "gobber": "2022-05-02 11:25:36 -0700",
+      "gob": "2022-04-19 22:20:49 -0700",
+      "hobgob": "2022-05-02 11:26:28 -0700"
     },
     "done": false
   },
@@ -35072,6 +35111,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2022-05-05 19:35:00 -0700"
+    },
+    "done": true
+  },
   "spartanweaponry:battle_hammer": {
     "criteria": {
       "craft": "2021-08-20 20:26:35 -0700"
@@ -35993,6 +36038,12 @@
   "structurize:recipes/structurize.timber_frames/plain_jungle_brown_terracotta_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2022-04-16 21:31:22 -0700"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/ogres_are_like_onions": {
+    "criteria": {
+      "killed_something": "2022-05-02 11:26:49 -0700"
     },
     "done": true
   },

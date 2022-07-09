@@ -1,0 +1,681 @@
+---- Minecraft Crash Report ----
+// Shall we play a game?
+
+Time: 6/20/22 5:13 PM
+Description: Watching Server
+
+java.lang.Error: ServerHangWatchdog detected that a single server tick took 66.55 seconds (should be max 0.05)
+	at it.unimi.dsi.fastutil.objects.AbstractObject2ObjectFunction.<init>(AbstractObject2ObjectFunction.java:34) ~[?:?] {re:classloading}
+	at it.unimi.dsi.fastutil.objects.AbstractObject2ObjectMap.<init>(AbstractObject2ObjectMap.java:44) ~[?:?] {re:classloading}
+	at it.unimi.dsi.fastutil.objects.Object2ObjectArrayMap.<init>(Object2ObjectArrayMap.java:69) ~[?:?] {re:classloading}
+	at com.mojang.serialization.CompressorHolder.<init>(CompressorHolder.java:10) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec.<init>(MapCodec.java:16) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.<init>(MapCodec.java:26) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec.of(MapCodec.java:26) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec.fieldOf(Codec.java:172) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.MapCodec.fieldOf(MapCodec.java:50) ~[?:?] {re:classloading}
+	at net.minecraft.state.StateHolder.func_235900_a_(SourceFile:162) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:ferritecore.fastmap.mixin.json:FastMapStateHolderMixin,pl:mixin:A}
+	at net.minecraft.state.StateHolder$$Lambda$770/1464949060.apply(Unknown Source) ~[?:?] {}
+	at java.util.function.Function.lambda$andThen$1(Function.java:88) ~[?:1.8.0_312] {}
+	at java.util.function.Function$$Lambda$772/799306600.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$getCodec$10(KeyDispatchCodec.java:123) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.KeyDispatchCodec$$Lambda$10876/1145456332.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[?:?] {re:classloading,re:mixin}
+	at com.mojang.serialization.DataResult$$Lambda$10877/920114088.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?] {re:classloading}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[?:?] {re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.getCodec(KeyDispatchCodec.java:123) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$new$0(KeyDispatchCodec.java:46) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.KeyDispatchCodec$$Lambda$774/508619583.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.encode(KeyDispatchCodec.java:79) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec$1.encode(Codec.java:40) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$6.encode(RecordCodecBuilder.java:296) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:31) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:19) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapEncoder$1.encode(MapEncoder.java:26) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.encode(KeyDispatchCodec.java:92) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:31) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:19) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder$1.encode(Encoder.java:25) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec$2.encode(Codec.java:76) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.EitherCodec.lambda$encode$2(EitherCodec.java:34) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.EitherCodec$$Lambda$10901/425329159.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.EitherCodec.encode(EitherCodec.java:33) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.EitherCodec.encode(EitherCodec.java:13) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder$1.encode(Encoder.java:25) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec$2.encode(Codec.java:76) ~[?:?] {re:classloading}
+	at net.minecraft.util.registry.WorldGenSettingsExport.func_241811_a_(SourceFile:35) ~[?:?] {re:classloading}
+	at net.minecraft.util.registry.RegistryKeyCodec.encode(SourceFile:42) ~[?:?] {re:classloading}
+	at net.minecraft.util.registry.RegistryKeyCodec.encode(SourceFile:13) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$6.encode(RecordCodecBuilder.java:296) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.encode(KeyDispatchCodec.java:92) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.PairMapCodec.encode(PairMapCodec.java:35) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.PairMapCodec.encode(PairMapCodec.java:15) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:31) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:19) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec$2.encode(Codec.java:76) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$6.encode(RecordCodecBuilder.java:297) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at net.minecraft.util.registry.WorldSettingsImport$IResourceAccess$RegistryAccess.func_244352_a(WorldSettingsImport.java:214) ~[?:?] {re:mixin,re:classloading}
+	at net.minecraft.util.registry.DynamicRegistries.handler$zbb000$registerRegistry(DynamicRegistries.java:553) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.util.registry.DynamicRegistries.func_243607_a(DynamicRegistries.java) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.util.registry.DynamicRegistries.func_239770_b_(DynamicRegistries.java:82) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at org.infernalstudios.infernalexp.util.NoiseChunkGeneratorUtil.lambda$null$0(NoiseChunkGeneratorUtil.java:36) ~[infernalexp:2.2.0] {re:mixin,re:classloading}
+	at org.infernalstudios.infernalexp.util.NoiseChunkGeneratorUtil$$Lambda$2098/1786099923.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance.lambda$ap3$6(RecordCodecBuilder.java:286) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$$Lambda$973/1817497820.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.encode(KeyDispatchCodec.java:92) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$4.encode(RecordCodecBuilder.java:223) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.BaseMapCodec.encode(BaseMapCodec.java:52) ~[?:?] {re:classloading}
+	at net.minecraftforge.common.LenientUnboundedMapCodec.encode(LenientUnboundedMapCodec.java:75) ~[forge:?] {re:classloading}
+	at net.minecraftforge.common.LenientUnboundedMapCodec.encode(LenientUnboundedMapCodec.java:22) ~[forge:?] {re:classloading}
+	at com.mojang.serialization.Encoder$1.encode(Encoder.java:25) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec$2.encode(Codec.java:76) ~[?:?] {re:classloading}
+	at net.minecraft.util.registry.SimpleRegistryCodec.encode(SourceFile:28) ~[?:?] {re:classloading}
+	at net.minecraft.util.registry.SimpleRegistryCodec.encode(SourceFile:11) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder$1.encode(Encoder.java:25) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec$2.encode(Codec.java:76) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$6.encode(RecordCodecBuilder.java:296) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder$1.encode(Encoder.java:25) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec$2.encode(Codec.java:76) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at net.minecraft.world.storage.ServerWorldInfo.func_237370_a_(SourceFile:250) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.storage.ServerWorldInfo.func_230411_a_(SourceFile:231) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.storage.SaveFormat$LevelSave.func_237288_a_(SaveFormat.java:341) ~[?:?] {re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:540) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:betterendforge.mixins.json:MinecraftServerMixin,pl:mixin:APP:enhancedcelestials.mixins.json:MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:807) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:betterendforge.mixins.json:MinecraftServerMixin,pl:mixin:APP:enhancedcelestials.mixins.json:MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:betterendforge.mixins.json:MinecraftServerMixin,pl:mixin:APP:enhancedcelestials.mixins.json:MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:betterendforge.mixins.json:MinecraftServerMixin,pl:mixin:APP:enhancedcelestials.mixins.json:MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer$$Lambda$13197/2055741149.run(Unknown Source) ~[?:?] {}
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at it.unimi.dsi.fastutil.objects.AbstractObject2ObjectFunction.<init>(AbstractObject2ObjectFunction.java:34) ~[?:?] {re:classloading}
+	at it.unimi.dsi.fastutil.objects.AbstractObject2ObjectMap.<init>(AbstractObject2ObjectMap.java:44) ~[?:?] {re:classloading}
+	at it.unimi.dsi.fastutil.objects.Object2ObjectArrayMap.<init>(Object2ObjectArrayMap.java:69) ~[?:?] {re:classloading}
+	at com.mojang.serialization.CompressorHolder.<init>(CompressorHolder.java:10) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec.<init>(MapCodec.java:16) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.<init>(MapCodec.java:26) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec.of(MapCodec.java:26) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec.fieldOf(Codec.java:172) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.MapCodec.fieldOf(MapCodec.java:50) ~[?:?] {re:classloading}
+	at net.minecraft.state.StateHolder.func_235900_a_(SourceFile:162) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:ferritecore.fastmap.mixin.json:FastMapStateHolderMixin,pl:mixin:A}
+	at net.minecraft.state.StateHolder$$Lambda$770/1464949060.apply(Unknown Source) ~[?:?] {}
+	at java.util.function.Function.lambda$andThen$1(Function.java:88) ~[?:1.8.0_312] {}
+	at java.util.function.Function$$Lambda$772/799306600.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$getCodec$10(KeyDispatchCodec.java:123) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.KeyDispatchCodec$$Lambda$10876/1145456332.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[?:?] {re:classloading,re:mixin}
+	at com.mojang.serialization.DataResult$$Lambda$10877/920114088.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?] {re:classloading}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[?:?] {re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.getCodec(KeyDispatchCodec.java:123) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$new$0(KeyDispatchCodec.java:46) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.KeyDispatchCodec$$Lambda$774/508619583.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.encode(KeyDispatchCodec.java:79) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec$1.encode(Codec.java:40) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$6.encode(RecordCodecBuilder.java:296) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:31) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:19) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapEncoder$1.encode(MapEncoder.java:26) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.encode(KeyDispatchCodec.java:92) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:31) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:19) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder$1.encode(Encoder.java:25) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec$2.encode(Codec.java:76) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.EitherCodec.lambda$encode$2(EitherCodec.java:34) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.EitherCodec$$Lambda$10901/425329159.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.EitherCodec.encode(EitherCodec.java:33) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.EitherCodec.encode(EitherCodec.java:13) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder$1.encode(Encoder.java:25) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec$2.encode(Codec.java:76) ~[?:?] {re:classloading}
+	at net.minecraft.util.registry.WorldGenSettingsExport.func_241811_a_(SourceFile:35) ~[?:?] {re:classloading}
+	at net.minecraft.util.registry.RegistryKeyCodec.encode(SourceFile:42) ~[?:?] {re:classloading}
+	at net.minecraft.util.registry.RegistryKeyCodec.encode(SourceFile:13) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$6.encode(RecordCodecBuilder.java:296) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.encode(KeyDispatchCodec.java:92) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.PairMapCodec.encode(PairMapCodec.java:35) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.PairMapCodec.encode(PairMapCodec.java:15) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:31) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:19) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec$2.encode(Codec.java:76) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$6.encode(RecordCodecBuilder.java:297) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at net.minecraft.util.registry.WorldSettingsImport$IResourceAccess$RegistryAccess.func_244352_a(WorldSettingsImport.java:214) ~[?:?] {re:mixin,re:classloading}
+	at net.minecraft.util.registry.DynamicRegistries.handler$zbb000$registerRegistry(DynamicRegistries.java:553) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.util.registry.DynamicRegistries.func_243607_a(DynamicRegistries.java) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.util.registry.DynamicRegistries.func_239770_b_(DynamicRegistries.java:82) ~[?:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at org.infernalstudios.infernalexp.util.NoiseChunkGeneratorUtil.lambda$null$0(NoiseChunkGeneratorUtil.java:36) ~[infernalexp:2.2.0] {re:mixin,re:classloading}
+	at org.infernalstudios.infernalexp.util.NoiseChunkGeneratorUtil$$Lambda$2098/1786099923.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance.lambda$ap3$6(RecordCodecBuilder.java:286) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$$Lambda$973/1817497820.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.KeyDispatchCodec.encode(KeyDispatchCodec.java:92) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$4.encode(RecordCodecBuilder.java:223) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.BaseMapCodec.encode(BaseMapCodec.java:52) ~[?:?] {re:classloading}
+	at net.minecraftforge.common.LenientUnboundedMapCodec.encode(LenientUnboundedMapCodec.java:75) ~[forge:?] {re:classloading}
+	at net.minecraftforge.common.LenientUnboundedMapCodec.encode(LenientUnboundedMapCodec.java:22) ~[forge:?] {re:classloading}
+	at com.mojang.serialization.Encoder$1.encode(Encoder.java:25) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec$2.encode(Codec.java:76) ~[?:?] {re:classloading}
+	at net.minecraft.util.registry.SimpleRegistryCodec.encode(SourceFile:28) ~[?:?] {re:classloading}
+	at net.minecraft.util.registry.SimpleRegistryCodec.encode(SourceFile:11) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder$1.encode(Encoder.java:25) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec$2.encode(Codec.java:76) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$6.encode(RecordCodecBuilder.java:296) ~[?:?] {re:classloading}
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112) ~[?:?] {re:classloading}
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder$1.encode(Encoder.java:25) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Codec$2.encode(Codec.java:76) ~[?:?] {re:classloading}
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[?:?] {re:computing_frames,re:classloading,re:mixin}
+	at net.minecraft.world.storage.ServerWorldInfo.func_237370_a_(SourceFile:250) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.storage.ServerWorldInfo.func_230411_a_(SourceFile:231) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.storage.SaveFormat$LevelSave.func_237288_a_(SaveFormat.java:341) ~[?:?] {re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:540) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:betterendforge.mixins.json:MinecraftServerMixin,pl:mixin:APP:enhancedcelestials.mixins.json:MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:807) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:betterendforge.mixins.json:MinecraftServerMixin,pl:mixin:APP:enhancedcelestials.mixins.json:MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:betterendforge.mixins.json:MinecraftServerMixin,pl:mixin:APP:enhancedcelestials.mixins.json:MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:betterendforge.mixins.json:MinecraftServerMixin,pl:mixin:APP:enhancedcelestials.mixins.json:MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
+-- Thread Dump --
+Details:
+	Threads: "IO-Worker-281" Id=437 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@56b87197
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@56b87197
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"IO-Worker-280" Id=436 RUNNABLE
+	at sun.nio.ch.FileDispatcherImpl.pwrite0(Native Method)
+	at sun.nio.ch.FileDispatcherImpl.pwrite(FileDispatcherImpl.java:66)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:89)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.FileChannelImpl.writeInternal(FileChannelImpl.java:772)
+	at sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:758)
+	at net.minecraft.world.chunk.storage.RegionFile.func_227135_a_(SourceFile:377)
+	-  locked net.minecraft.world.chunk.storage.RegionFile@587f8530
+	at net.minecraft.world.chunk.storage.RegionFile$ChunkBuffer.close(SourceFile:350)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.ThreadPoolExecutor$Worker@2be5cabe
+
+
+"Minecolonies Pathfinding Worker #0" Id=103 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5c401ae7
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5c401ae7
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingDeque.takeFirst(LinkedBlockingDeque.java:492)
+	at java.util.concurrent.LinkedBlockingDeque.take(LinkedBlockingDeque.java:680)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"Netty Epoll Server IO #1" Id=85 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Ice and Fire Pathfinding Worker #0" Id=81 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@19428f0b
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@19428f0b
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingDeque.takeFirst(LinkedBlockingDeque.java:492)
+	at java.util.concurrent.LinkedBlockingDeque.take(LinkedBlockingDeque.java:680)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"Thread-19" Id=80 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at com.performant.coremod.entity.threading.ActionThread.run(ActionThread.java:43)
+
+
+"Thread-18" Id=79 RUNNABLE
+	at net.minecraft.util.math.shapes.VoxelShapes.func_199410_a(SourceFile:383)
+	at net.minecraft.util.math.shapes.VoxelShapes.func_197879_c(SourceFile:180)
+	at net.minecraft.entity.LivingEntity.addShapesForBlockCollision(LivingEntity.java:4390)
+	at net.minecraft.entity.LivingEntity.collideBoundingBoxSingle(LivingEntity.java:4291)
+	at net.minecraft.entity.LivingEntity.collideBoundingBoxHeuristically(LivingEntity.java:4246)
+	at net.minecraft.entity.LivingEntity.getAllowedMovement(LivingEntity.java:4184)
+	at net.minecraft.entity.LivingEntity.func_213315_a(LivingEntity.java:3724)
+	at net.minecraft.entity.LivingEntity.func_233633_a_(LivingEntity.java:2053)
+	...
+
+
+"Thread-17" Id=78 RUNNABLE
+	at net.minecraft.util.math.shapes.VoxelShape.func_197759_b(SourceFile:54)
+	at net.minecraft.util.math.shapes.VoxelShape.func_197758_c(SourceFile:42)
+	at net.minecraft.util.math.shapes.VoxelShapes.func_197879_c(SourceFile:175)
+	at net.minecraft.entity.LivingEntity.addShapesForBlockCollision(LivingEntity.java:4390)
+	at net.minecraft.entity.LivingEntity.collideBoundingBoxSingle(LivingEntity.java:4291)
+	at net.minecraft.entity.LivingEntity.collideBoundingBoxHeuristically(LivingEntity.java:4246)
+	at net.minecraft.entity.LivingEntity.getAllowedMovement(LivingEntity.java:4184)
+	at net.minecraft.entity.LivingEntity.func_213315_a(LivingEntity.java:3724)
+	...
+
+
+"Thread-16" Id=77 RUNNABLE
+	at it.unimi.dsi.fastutil.doubles.AbstractDoubleList.ensureIndex(AbstractDoubleList.java:45)
+	at it.unimi.dsi.fastutil.doubles.AbstractDoubleList.listIterator(AbstractDoubleList.java:156)
+	at it.unimi.dsi.fastutil.doubles.AbstractDoubleList.listIterator(AbstractDoubleList.java:147)
+	at it.unimi.dsi.fastutil.doubles.AbstractDoubleList.equals(AbstractDoubleList.java:371)
+	at java.util.Objects.equals(Objects.java:59)
+	at net.minecraft.util.math.shapes.VoxelShapes.func_199410_a(SourceFile:397)
+	at net.minecraft.util.math.shapes.VoxelShapes.func_197879_c(SourceFile:181)
+	at net.minecraft.entity.LivingEntity.addShapesForBlockCollision(LivingEntity.java:4390)
+	...
+
+
+"Thread-15" Id=76 RUNNABLE
+	at net.minecraft.util.math.shapes.BitSetVoxelShapePart.func_199624_b(SourceFile:94)
+	at net.minecraft.util.math.shapes.VoxelShape.func_197758_c(SourceFile:38)
+	at net.minecraft.util.math.shapes.VoxelShapes.func_197879_c(SourceFile:172)
+	at net.minecraft.entity.LivingEntity.addShapesForBlockCollision(LivingEntity.java:4390)
+	at net.minecraft.entity.LivingEntity.collideBoundingBoxSingle(LivingEntity.java:4291)
+	at net.minecraft.entity.LivingEntity.collideBoundingBoxHeuristically(LivingEntity.java:4246)
+	at net.minecraft.entity.LivingEntity.getAllowedMovement(LivingEntity.java:4184)
+	at net.minecraft.entity.LivingEntity.func_213315_a(LivingEntity.java:3724)
+	...
+
+
+"Server Watchdog" Id=75 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:496)
+	at sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:484)
+	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:41)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"ChunkLoaderWorker-0" Id=69 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@ce3617d
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@ce3617d
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Thread-10" Id=65 RUNNABLE (in native)
+	at sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at sun.nio.fs.LinuxWatchService.access$600(LinuxWatchService.java:47)
+	at sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Netty Epoll Server IO #0" Id=64 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"ObjectCleanerThread" Id=63 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@289133d4
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@289133d4
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+	at io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Server console handler" Id=62 RUNNABLE
+	at java.io.FileInputStream.read0(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:207)
+	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
+	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
+	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:133)
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
+	...
+
+
+"DestroyJavaVM" Id=61 RUNNABLE
+
+
+"Server thread" Id=58 RUNNABLE
+	at it.unimi.dsi.fastutil.objects.AbstractObject2ObjectFunction.<init>(AbstractObject2ObjectFunction.java:34)
+	at it.unimi.dsi.fastutil.objects.AbstractObject2ObjectMap.<init>(AbstractObject2ObjectMap.java:44)
+	at it.unimi.dsi.fastutil.objects.Object2ObjectArrayMap.<init>(Object2ObjectArrayMap.java:69)
+	at com.mojang.serialization.CompressorHolder.<init>(CompressorHolder.java:10)
+	at com.mojang.serialization.MapCodec.<init>(MapCodec.java:16)
+	at com.mojang.serialization.MapCodec$1.<init>(MapCodec.java:26)
+	at com.mojang.serialization.MapCodec.of(MapCodec.java:26)
+	at com.mojang.serialization.Codec.fieldOf(Codec.java:172)
+	...
+
+
+"Snooper Timer" Id=59 WAITING on java.util.TaskQueue@74da8303
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@74da8303
+	at java.lang.Object.wait(Object.java:502)
+	at java.util.TimerThread.mainLoop(Timer.java:526)
+	at java.util.TimerThread.run(Timer.java:505)
+
+
+"Thread-5" Id=40 RUNNABLE (in native)
+	at sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at sun.nio.fs.LinuxWatchService.access$600(LinuxWatchService.java:47)
+	at sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Thread-4" Id=33 RUNNABLE (in native)
+	at sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at sun.nio.fs.LinuxWatchService.access$600(LinuxWatchService.java:47)
+	at sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Timer hack thread" Id=20 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at net.minecraft.util.Util$6.run(Util.java:505)
+
+
+"Thread-2" Id=18 RUNNABLE (in native)
+	at sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at sun.nio.fs.LinuxWatchService.access$600(LinuxWatchService.java:47)
+	at sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Thread-1" Id=17 TIMED_WAITING
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:338)
+	at com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:190)
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@796d7044
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@796d7044
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:165)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:216)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@6e921e9d
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@6e921e9d
+	at java.lang.Object.wait(Object.java:502)
+	at java.lang.ref.Reference.tryHandlePending(Reference.java:191)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:153)
+
+
+
+Stacktrace:
+	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:56) [?:?] {re:classloading}
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312] {}
+
+
+-- Performance stats --
+Details:
+	Random tick rate: 3
+	Level stats: ResourceKey[minecraft:dimension / minecraft:overworld]: players: 0, entities: 536 [guardscraft:heavybowman:48,minecraft:chicken:44,minecraft:item_frame:42,minecraft:cow:40,betteranimalsplus:coyote:39], block_entities: 853 [quark:variant_chest:223,minecraft:chest:133,minecraft:skull:85,minecraft:mob_spawner:83,quark:monster_box:64], block_ticks: 345, fluid_ticks: 43, chunk_source: ServerChunkCache: 3035,
+ResourceKey[minecraft:dimension / minecraft:the_nether]: players: 0, entities: 0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 0,
+ResourceKey[minecraft:dimension / minecraft:the_end]: players: 0, entities: 0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 0
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Linux (amd64) version 5.13.0-40-generic
+	Java Version: 1.8.0_312, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 830911016 bytes (792 MB) / 16456876032 bytes (15694 MB) up to 16456876032 bytes (15694 MB)
+	CPUs: 8
+	JVM Flags: 2 total; -Xmx16G -Xms16384M
+	ModLauncher: 8.0.9+86+master.3cf110c
+	ModLauncher launch target: fmlserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		/mixin-0.8.2.jar mixin PLUGINSERVICE 
+		/eventbus-4.0.0.jar eventbus PLUGINSERVICE 
+		/forge-1.16.5-36.2.0.jar object_holder_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.2.0.jar runtime_enum_extender PLUGINSERVICE 
+		/accesstransformers-3.0.1.jar accesstransformer PLUGINSERVICE 
+		/forge-1.16.5-36.2.0.jar capability_inject_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.2.0.jar runtimedistcleaner PLUGINSERVICE 
+		/mixin-0.8.2.jar mixin TRANSFORMATIONSERVICE 
+		/OptiFine_1.16.5_HD_U_G8.jar OptiFine TRANSFORMATIONSERVICE 
+		/forge-1.16.5-36.2.0.jar fml TRANSFORMATIONSERVICE 
+	FML: 36.2
+	Forge: net.minecraftforge:36.2.0
+	FML Language Providers: 
+		javafml@36.2
+		minecraft@1
+	Mod List: 
+		enchantedbookredesign-3.3-1.16.4.jar              |Enchanted Book Redesign       |enchantedbookredesign         |3.3-1.16.4          |DONE      |Manifest: NOSIGNATURE
+		DungeonsMod-1.16.3-1.4.43.jar                     |Dungeons Mod                  |dungeonsmod                   |1.16.3-1.4.43       |DONE      |Manifest: NOSIGNATURE
+		BetterDungeons-1.16.4-1.2.jar                     |YUNG's Better Dungeons        |betterdungeons                |1.16.4-1.2          |DONE      |Manifest: NOSIGNATURE
+		infernal-expansion-2.2.0.jar                      |Infernal Expansion            |infernalexp                   |2.2.0               |DONE      |Manifest: NOSIGNATURE
+		BowInfinityFix-1.16.x-rv9.1.jar                   |Bow Infinity Fix              |bowinfinityfix                |rv9.1               |DONE      |Manifest: NOSIGNATURE
+		BetterCaves-Forge-1.16.4-1.1.2.jar                |YUNG's Better Caves           |bettercaves                   |1.16.4-1.1.2        |DONE      |Manifest: NOSIGNATURE
+		Placebo-1.16.4-4.5.0.jar                          |Placebo                       |placebo                       |4.5.0               |DONE      |Manifest: NOSIGNATURE
+		citadel-1.8.1-1.16.5.jar                          |Citadel                       |citadel                       |1.8.1               |DONE      |Manifest: NOSIGNATURE
+		YungsApi-1.16.4-Forge-12.jar                      |YUNG's API                    |yungsapi                      |1.16.4-Forge-12     |DONE      |Manifest: NOSIGNATURE
+		RegenControll-[1.16.4]-2.0.jar                    |Regen Controll                |regen_controll                |2.0                 |DONE      |Manifest: NOSIGNATURE
+		MutantBeasts-1.16.4-1.1.3.jar                     |Mutant Beasts                 |mutantbeasts                  |1.16.4-1.1.3        |DONE      |Manifest: d9:be:bd:b6:9a:e4:14:aa:05:67:fb:84:06:77:a0:c5:10:ec:27:15:1b:d6:c0:88:49:9a:ef:26:77:61:0b:5e
+		biomeidfixer-1.16.5-1.0.1.s5.jar                  |Biome Id Fixer by Desagas     |biomeidfixer                  |1.16.5-1.0.1.s5     |DONE      |Manifest: NOSIGNATURE
+		guardvillagers-1.16.5.1.2.5.jar                   |Guard Villagers               |guardvillagers                |1.2.5               |DONE      |Manifest: NOSIGNATURE
+		randompatches-2.4.4-forge.jar                     |RandomPatches                 |randompatches                 |2.4.4-forge         |DONE      |Manifest: 92:f6:29:d4:09:89:f5:f5:98:5e:20:34:31:d0:7b:58:22:06:bd:a5:d1:6a:92:6e:ac:3d:8d:18:c5:b2:5b:d7
+		Paraglider-1.16.5-1.3.2.1.jar                     |Paraglider                    |paraglider                    |1.3.2.1             |DONE      |Manifest: NOSIGNATURE
+		stackrefill_1.16.5-2.0.jar                        |Stack Refill                  |stackrefill                   |2.0                 |DONE      |Manifest: NOSIGNATURE
+		betterendforge-1.16.4-1.6.0.jar                   |BetterEnd Forge               |betterendforge                |1.16.4-1.6.0        |DONE      |Manifest: NOSIGNATURE
+		chocolate-1.3.0-1.16.4.jar                        |Chocolate                     |chocolate                     |1.3.0-1.16.4        |DONE      |Manifest: NOSIGNATURE
+		UndeadExpansion-2.0.0-1.16.5.jar                  |Undead Expansion              |undead_expansion              |2.0.0               |DONE      |Manifest: NOSIGNATURE
+		repurposed_structures_forge-3.2.0+1.16.5.jar      |Repurposed Structures         |repurposed_structures         |3.2.0+1.16.5        |DONE      |Manifest: NOSIGNATURE
+		projectvibrantjourneys-1.16.5-3.2.5.jar           |Project: Vibrant Journeys     |projectvibrantjourneys        |1.16.5-3.2.5        |DONE      |Manifest: NOSIGNATURE
+		EndRemastered-R36.jar                             |End Remastered 3.6            |endrem                        |1.16.3              |DONE      |Manifest: NOSIGNATURE
+		EnchantingConvergence-1.16.5-1.0.0.jar            |Enchanting Convergence        |enchanting_convergence        |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		villagespawnpoint_1.16.5-1.8.jar                  |Village Spawn Point           |villagespawnpoint             |1.8                 |DONE      |Manifest: NOSIGNATURE
+		Goblins_Dungeons_1.0.6-1.16.jar                   |Goblins & Dungeons            |goblinsanddungeons            |1.0.6               |DONE      |Manifest: NOSIGNATURE
+		curios-forge-1.16.5-4.0.5.2.jar                   |Curios API                    |curios                        |1.16.5-4.0.5.2      |DONE      |Manifest: NOSIGNATURE
+		Curious+Armor+Stands-1.16.5-2.1.2.jar             |Curious Armor Stands          |curious_armor_stands          |1.16.5-2.1.2        |DONE      |Manifest: NOSIGNATURE
+		collective-1.16.5-2.58.jar                        |Collective                    |collective                    |2.58                |DONE      |Manifest: NOSIGNATURE
+		OreExcavation-1.8.157.jar                         |Ore Excavation                |oreexcavation                 |1.8.157             |DONE      |Manifest: e7:68:1c:0d:b9:7e:cf:f8:f3:40:9c:84:c5:39:d7:a4:59:78:b0:6b:c3:fd:b7:4f:69:18:a3:88:e3:76:8c:3f
+		betteranimals-1.16.4-5.5.0.jar                    |Cyber's Better Animal Models  |betteranimals                 |5.5.0               |DONE      |Manifest: NOSIGNATURE
+		YungsExtras-Forge-1.16.4-1.0.jar                  |YUNG's Extras                 |yungsextras                   |Forge-1.16.4-1.0    |DONE      |Manifest: NOSIGNATURE
+		BetterStrongholds-1.16.4-1.2.1.jar                |YUNG's Better Strongholds     |betterstrongholds             |1.16.4-1.2.1        |DONE      |Manifest: NOSIGNATURE
+		SpartanWeaponry-1.16.4-2.1.0-beta-4.jar           |Spartan Weaponry              |spartanweaponry               |2.1.0 beta 4        |DONE      |Manifest: NOSIGNATURE
+		Project_MMO-1.16.5-3.63.jar                       |Project MMO                   |pmmo                          |1.16.5-3.63         |DONE      |Manifest: NOSIGNATURE
+		mutantmore-1.16.5-1.0.0.jar                       |Mutant More                   |mutantmore                    |1.0.3               |DONE      |Manifest: NOSIGNATURE
+		architectury-1.31.59.jar                          |Architectury                  |architectury                  |1.31.59             |DONE      |Manifest: NOSIGNATURE
+		AI-Improvements-1.16.2-0.3.0.jar                  |AI-Improvements               |aiimprovements                |0.3.0               |DONE      |Manifest: NOSIGNATURE
+		platos-1.5.1.jar                                  |Plato's Transporters          |platos                        |1.5.1               |DONE      |Manifest: NOSIGNATURE
+		mcw-furniture-2.0.1-mc1.16.5.jar                  |Macaw's Furniture             |mcwfurnitures                 |2.0.1               |DONE      |Manifest: NOSIGNATURE
+		CodeChickenLib-1.16.5-4.0.2.429-universal.jar     |CodeChicken Lib               |codechickenlib                |4.0.2.429           |DONE      |Manifest: 31:e6:db:63:47:4a:6e:e0:0a:2c:11:d1:76:db:4e:82:ff:56:2d:29:93:d2:e5:02:bd:d3:bd:9d:27:47:a5:71
+		BetterMineshafts-Forge-1.16.4-2.0.4.jar           |YUNG's Better Mineshafts      |bettermineshafts              |1.16.4-2.0.4        |DONE      |Manifest: NOSIGNATURE
+		geckolib-forge-1.16.5-3.0.45.jar                  |GeckoLib                      |geckolib3                     |3.0.45              |DONE      |Manifest: NOSIGNATURE
+		mowziesmobs-1.5.19.jar                            |Mowzie's Mobs                 |mowziesmobs                   |1.5.19              |DONE      |Manifest: NOSIGNATURE
+		dusk-1.4.jar                                      |Example Mod                   |dusk                          |1.4                 |DONE      |Manifest: NOSIGNATURE
+		shieldmechanics-2.3-1.16.5.jar                    |Shield Mechanics              |shieldmechanics               |2.3-1.16.5          |DONE      |Manifest: NOSIGNATURE
+		minecraft-comes-alive-7.0.10-forge.jar            |Minecraft Comes Alive         |mca                           |7.0.10              |DONE      |Manifest: NOSIGNATURE
+		AwesomeDungeonEnd-Forge-1.16.5-1.0.1.jar          |Awesome Dungeon End           |awesomedungeonend             |1.0.1               |DONE      |Manifest: NOSIGNATURE
+		Bountiful+Baubles+FORGE-1.16.3-0.0.2.jar          |Bountiful Baubles             |bountifulbaubles              |NONE                |DONE      |Manifest: NOSIGNATURE
+		jei-1.16.5-7.7.1.118.jar                          |Just Enough Items             |jei                           |7.7.1.118           |DONE      |Manifest: NOSIGNATURE
+		dungeons_mobs-1.16.5-1.0.10.jar                   |Dungeons Mobs                 |dungeons_mobs                 |1.0.10              |DONE      |Manifest: NOSIGNATURE
+		abnormals_core-1.16.5-3.2.0.jar                   |Abnormals Core                |abnormals_core                |3.2.0               |DONE      |Manifest: NOSIGNATURE
+		LibraryFerret-Forge-1.16.5-1.0.3.jar              |Library ferret                |libraryferret                 |1.0.3               |DONE      |Manifest: NOSIGNATURE
+		caelus-forge-1.16.5-2.1.3.1.jar                   |Caelus API                    |caelus                        |1.16.5-2.1.3.1      |DONE      |Manifest: NOSIGNATURE
+		colytra-forge-1.16.5-5.1.1.1.jar                  |Colytra                       |colytra                       |1.16.5-5.1.1.1      |DONE      |Manifest: NOSIGNATURE
+		RingsOfAscension-1.16.4-1.6.0.jar                 |Rings of Ascension            |ringsofascension              |1.6.0               |DONE      |Manifest: NOSIGNATURE
+		Waystones_1.16.5-7.6.2.jar                        |Waystones                     |waystones                     |7.6.2               |DONE      |Manifest: NOSIGNATURE
+		BetterPortals-1.16.4-0.3.7.jar                    |YUNG's Better Portals         |betterportals                 |1.16.4-0.3.7        |DONE      |Manifest: NOSIGNATURE
+		EpicFightMod-16.5.13.jar                          |Epic Fight Mod                |epicfight                     |16.5.13             |DONE      |Manifest: NOSIGNATURE
+		journeymap-1.16.5-5.7.3.jar                       |Journeymap                    |journeymap                    |5.7.3               |DONE      |Manifest: NOSIGNATURE
+		AwesomeDungeonForge-1.16.5-2.0.8.jar              |Awesome Dungeon               |awesomedungeon                |2.0.8               |DONE      |Manifest: NOSIGNATURE
+		Artifacts-1.16.5-2.10.0.jar                       |Artifacts                     |artifacts                     |1.16.5-2.10.0       |DONE      |Manifest: NOSIGNATURE
+		netheritehorsearmor-1.7.jar                       |Netherite Horse Armor Mod     |netheritehorsearmor           |1.7                 |DONE      |Manifest: NOSIGNATURE
+		OuterEnd-0.2.14.jar                               |The Outer End                 |outer_end                     |0.2.9               |DONE      |Manifest: NOSIGNATURE
+		[1.16.5]-Epic-Knights-Armor-and-Weapons-5.9v.jar  |Epic Knights Armor and Weapons|magistuarmory                 |1.16-1.17           |DONE      |Manifest: NOSIGNATURE
+		DungeonCrawl-1.16.5-2.3.2.jar                     |Dungeon Crawl                 |dungeoncrawl                  |2.3.2               |DONE      |Manifest: NOSIGNATURE
+		betteranimalsplus-1.16.5-11.0.5-forge.jar         |Better Animals Plus           |betteranimalsplus             |1.16.5-11.0.5       |DONE      |Manifest: NOSIGNATURE
+		wolveswitharmor-1.1.0-1.16.2.jar                  |Wolves With Armor             |wolveswitharmor               |1.1.0               |DONE      |Manifest: NOSIGNATURE
+		DataFixerSlayer+1.0-3.jar                         |DataFixerSlayer               |datafixerslayer               |1.0-3               |DONE      |Manifest: NOSIGNATURE
+		iceandfire-2.1.9-1.16.5.jar                       |Ice and Fire                  |iceandfire                    |2.1.9-1.16.5        |DONE      |Manifest: NOSIGNATURE
+		iChunUtil-1.16.5-10.4.1.jar                       |iChunUtil                     |ichunutil                     |10.4.1              |DONE      |Manifest: NOSIGNATURE
+		traverse-1.16.4-0.4.3.8.jar                       |Traverse: Reforged            |traverse                      |1.16.4-0.4.3.8      |DONE      |Manifest: NOSIGNATURE
+		forge-1.16.5-36.2.0-universal.jar                 |Forge                         |forge                         |36.2.0              |DONE      |Manifest: 22:af:21:d8:19:82:7f:93:94:fe:2b:ac:b7:e4:41:57:68:39:87:b1:a7:5c:c6:44:f9:25:74:21:14:f5:0d:90
+		ExperimentalEmeraldObsidianMod-4.0.0.0.jar        |Derec's Emerald & Obsidian Mod|derecs_emerald__obsidian_mod  |4.0.0.0             |DONE      |Manifest: NOSIGNATURE
+		DynamicSurroundings-1.16.4-4.0.4.2.jar            |§3Dynamic Surroundings        |dsurround                     |1.16.4-4.0.4.2      |DONE      |Manifest: b4:98:14:b9:76:55:25:4f:e5:5f:4d:71:90:87:43:5b:f9:d5:3a:02:60:42:5e:da:1f:15:9c:ff:be:a9:7c:77
+		AwesomeDungeonOcean-Forge-1.16.5-2.0.5.jar        |Awesome Dungeon Ocean         |awesomedungeonocean           |2.0.5               |DONE      |Manifest: NOSIGNATURE
+		EditedDiceMC-TieredArmor-1.16.5-1.1a.jar          |DiceMC Tiered Armor           |dicemcta                      |1.16.5-1.1a         |DONE      |Manifest: NOSIGNATURE
+		forge-1.16.5-36.2.0-server.jar                    |Minecraft                     |minecraft                     |1.16.5              |DONE      |Manifest: NOSIGNATURE
+		cofh_core-1.16.5-1.3.1.jar                        |CoFH Core                     |cofh_core                     |1.3.1               |DONE      |Manifest: NOSIGNATURE
+		ToolBelt-1.16.5-1.16.0.jar                        |Tool Belt                     |toolbelt                      |1.16.0              |DONE      |Manifest: NOSIGNATURE
+		AwesomeDungeonNether-Forge-1.16.5-1.0.1.jar       |Awesome Dungeon Nether        |awesomedungeonnether          |1.0.1               |DONE      |Manifest: NOSIGNATURE
+		totw_additions-1.1.0.jar                          |Towers of the Wild: Additions |totw_additions                |1.1.0               |DONE      |Manifest: NOSIGNATURE
+		mana-and-artifice-1.3.0.6.jar                     |Mana and Artifice             |mana-and-artifice             |1.3.0.6             |DONE      |Manifest: NOSIGNATURE
+		Classes-1.16.5-2.0.4.3.jar                        |Classes                       |classes                       |1.16.3-1.3.0        |DONE      |Manifest: NOSIGNATURE
+		wards-1.16.5-1.5.0BETA.jar                        |Wards                         |wards                         |1.16.5-1.5.0BETA    |DONE      |Manifest: NOSIGNATURE
+		archers_paradox-1.16.5-1.3.1.jar                  |Archer's Paradox              |archers_paradox               |1.3.1               |DONE      |Manifest: 75:0b:cc:9b:64:2e:9b:c4:41:d1:95:00:71:ee:87:1a:b3:5e:4b:da:8e:e8:39:00:fd:5d:e5:9c:40:42:33:09
+		towers_of_the_wild-1.16.4-2.0.1.jar               |Towers Of The Wild            |towers_of_the_wild            |1.16.4-2.0.1        |DONE      |Manifest: NOSIGNATURE
+		ChickenChunks-1.16.5-2.8.0.86-universal.jar       |ChickenChunks                 |chickenchunks                 |2.8.0.86            |DONE      |Manifest: 31:e6:db:63:47:4a:6e:e0:0a:2c:11:d1:76:db:4e:82:ff:56:2d:29:93:d2:e5:02:bd:d3:bd:9d:27:47:a5:71
+		SpartanShields-1.16.5-2.1.2.jar                   |Spartan Shields               |spartanshields                |2.1.2               |DONE      |Manifest: NOSIGNATURE
+		gravestone-1.16.5-1.0.6.jar                       |Gravestone Mod                |gravestone                    |1.16.5-1.0.6        |DONE      |Manifest: NOSIGNATURE
+		dragonseeker-1.0.jar                              |Dragonseeker                  |dragonseeker                  |1.0                 |DONE      |Manifest: NOSIGNATURE
+		AutoRegLib-1.6-49.jar                             |AutoRegLib                    |autoreglib                    |1.6-49              |DONE      |Manifest: NOSIGNATURE
+		Quark-r2.4-316.jar                                |Quark                         |quark                         |r2.4-316            |DONE      |Manifest: NOSIGNATURE
+		StorageDrawers-1.16.3-8.3.0.jar                   |Storage Drawers               |storagedrawers                |8.3.0               |DONE      |Manifest: NOSIGNATURE
+		performant-1.16.2-5-3.72m.jar                     |Performant                    |performant                    |3.56m               |DONE      |Manifest: NOSIGNATURE
+		backpacked-1.10.1-1.16.3.jar                      |Backpacked                    |backpacked                    |1.10.1              |DONE      |Manifest: NOSIGNATURE
+		backpacker-1.3.1-1.16.3.jar                       |Backpacker                    |backpacker                    |1.3.1               |DONE      |Manifest: NOSIGNATURE
+		InventoryHud_[1.16.2-1.16.5].forge-3.3.0.jar      |Inventory HUD+(Forge edition) |inventoryhud                  |3.3.0               |DONE      |Manifest: NOSIGNATURE
+		structurize-0.13.208-ALPHA-universal.jar          |Structurize                   |structurize                   |0.13.208-ALPHA      |DONE      |Manifest: NOSIGNATURE
+		minecolonies-0.14.327-BETA-universal.jar          |MineColonies                  |minecolonies                  |0.14.327-BETA       |DONE      |Manifest: NOSIGNATURE
+		FastFurnace-1.16.4-4.4.0.jar                      |FastFurnace                   |fastfurnace                   |4.4.0               |DONE      |Manifest: NOSIGNATURE
+		ferritecore-2.0.5-forge.jar                       |Ferrite Core                  |ferritecore                   |2.0.5               |DONE      |Manifest: 41:ce:50:66:d1:a0:05:ce:a1:0e:02:85:9b:46:64:e0:bf:2e:cf:60:30:9a:fe:0c:27:e0:63:66:9a:84:ce:8a
+		BackTools-1.16.5-10.1.0.jar                       |Back Tools                    |backtools                     |10.1.0              |DONE      |Manifest: NOSIGNATURE
+		guardscraft-1.16.5-1.1.1.jar                      |GuardsCraft                   |guardscraft                   |1.16.5-1.1.1        |DONE      |Manifest: NOSIGNATURE
+		enhancedcelestials-1.0.4-1.16.4.jar               |Enhanced Celestials           |enhancedcelestials            |1.0.4-1.16.4        |DONE      |Manifest: NOSIGNATURE
+		Aquaculture-1.16.5-2.1.20.jar                     |Aquaculture 2                 |aquaculture                   |1.16.5-2.1.20       |DONE      |Manifest: NOSIGNATURE
+		CraftableHorseArmour-1.16.5-1.6.jar               |CHA&S - Craftable Horse Armour|craftablehorsearmour          |1.6                 |DONE      |Manifest: NOSIGNATURE
+		BetterPvP_21.15.1_Forge_1.16.5.jar                |Better PVP Mod                |xaerobetterpvp                |21.15.1             |DONE      |Manifest: NOSIGNATURE
+		expandability-2.0.1-forge.jar                     |ExpandAbility                 |expandability                 |2.0.1               |DONE      |Manifest: NOSIGNATURE
+		CosmeticArmorReworked-1.16.5-v5.jar               |CosmeticArmorReworked         |cosmeticarmorreworked         |1.16.5-v5           |DONE      |Manifest: 5e:ed:25:99:e4:44:14:c0:dd:89:c1:a9:4c:10:b5:0d:e4:b1:52:50:45:82:13:d8:d0:32:89:67:56:57:01:53
+		valhelsia_core-16.0.9.jar                         |Valhelsia Core                |valhelsia_core                |16.0.9              |DONE      |Manifest: NOSIGNATURE
+		valhelsia_structures-1.16.5-0.1.4.jar             |Valhelsia Structures          |valhelsia_structures          |1.16.5-0.1.4        |DONE      |Manifest: NOSIGNATURE
+		balancedenchanting-1.0.jar                        |Balanced Enchanting           |balancedenchanting            |1.0                 |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: 1aa07b4f-35a9-4d22-9bbd-bb8f561f5210
+	Player Count: 0 / 20; []
+	Data Packs: vanilla, mod:mowziesmobs (incompatible), mod:betterdungeons, mod:dusk, mod:shieldmechanics, mod:infernalexp (incompatible), mod:bountifulbaubles (incompatible), mod:jei, mod:dungeons_mobs (incompatible), mod:abnormals_core, mod:caelus, mod:colytra (incompatible), mod:ringsofascension (incompatible), mod:bowinfinityfix (incompatible), mod:bettercaves (incompatible), mod:waystones (incompatible), mod:betterportals, mod:epicfight, mod:journeymap (incompatible), mod:placebo (incompatible), mod:citadel (incompatible), mod:artifacts, mod:yungsapi, mod:netheritehorsearmor, mod:outer_end, mod:dungeoncrawl, mod:betteranimalsplus, mod:wolveswitharmor, mod:mutantbeasts (incompatible), mod:guardvillagers, mod:randompatches, mod:datafixerslayer (incompatible), mod:iceandfire (incompatible), mod:ichunutil, mod:traverse (incompatible), mod:paraglider, mod:forge, mod:stackrefill, mod:dsurround, mod:dicemcta, mod:cofh_core (incompatible), mod:repurposed_structures, mod:toolbelt (incompatible), mod:mana-and-artifice, mod:projectvibrantjourneys, mod:endrem, mod:wards, mod:archers_paradox (incompatible), mod:towers_of_the_wild, mod:enchanting_convergence, mod:chickenchunks (incompatible), mod:villagespawnpoint, mod:curios, mod:curious_armor_stands, mod:spartanshields, mod:gravestone, mod:collective, mod:dragonseeker, mod:storagedrawers (incompatible), mod:oreexcavation, mod:betteranimals (incompatible), mod:yungsextras, mod:performant (incompatible), mod:inventoryhud, mod:betterstrongholds, mod:structurize, mod:minecolonies (incompatible), mod:fastfurnace (incompatible), mod:spartanweaponry, mod:pmmo (incompatible), mod:ferritecore (incompatible), mod:aiimprovements, mod:platos, mod:mcwfurnitures, mod:backtools, mod:enhancedcelestials, mod:aquaculture (incompatible), mod:craftablehorsearmour, mod:expandability, mod:codechickenlib (incompatible), mod:valhelsia_core, mod:valhelsia_structures, mod:bettermineshafts, mod:geckolib3 (incompatible), mod:balancedenchanting (incompatible), mod:enchantedbookredesign (incompatible), mod:regen_controll, mod:derecs_emerald__obsidian_mod, mod:classes, mod:autoreglib (incompatible), mod:quark (incompatible), mod:backpacked (incompatible), mod:backpacker, mod:xaerobetterpvp, mod:mca, mod:guardscraft, mod:biomeidfixer, mod:chocolate, mod:betterendforge, mod:dungeonsmod (incompatible), mod:undead_expansion, mod:goblinsanddungeons, mod:mutantmore, mod:architectury, mod:awesomedungeonend, mod:libraryferret, mod:awesomedungeon, mod:magistuarmory, mod:awesomedungeonocean, mod:awesomedungeonnether, mod:totw_additions, mod:cosmeticarmorreworked (incompatible)
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)

@@ -19208,6 +19208,12 @@
     },
     "done": true
   },
+  "awesomedungeonocean:ocean_the_column_temple/find_normal": {
+    "criteria": {
+      "requirement": "2022-05-06 23:22:22 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/up_gated_jungle_brown_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 21:31:30 -0700"

@@ -1034,6 +1034,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2022-05-23 17:12:12 -0700",
       "minecraft:nether_wastes": "2021-09-09 21:35:53 -0700"
     },
     "done": false
@@ -1383,6 +1384,12 @@
   "betterendforge:recipes/betterendforge/pythadendron_sign": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:40 -0700"
+    },
+    "done": true
+  },
+  "minecolonies:production/deep_mine": {
+    "criteria": {
+      "mineshaft": "2022-05-19 21:37:52 -0700"
     },
     "done": true
   },
@@ -12151,9 +12158,33 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/crimson/crimson_pult_4": {
+    "criteria": {
+      "has_planks": "2022-05-23 17:26:36 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/framed_spruce_dark_oak_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:46 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson/crimson_pult_2": {
+    "criteria": {
+      "has_planks": "2022-05-23 17:26:36 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson/crimson_pult_3": {
+    "criteria": {
+      "has_planks": "2022-05-23 17:26:36 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson/crimson_pult_1": {
+    "criteria": {
+      "has_planks": "2022-05-23 17:26:36 -0700"
     },
     "done": true
   },
@@ -17831,6 +17862,12 @@
   "structurize:recipes/structurize.timber_frames/side_framed_acacia_brown_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:41 -0700"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2022-05-23 16:26:51 -0700"
     },
     "done": true
   },
@@ -30645,6 +30682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-05-23 17:11:27 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/double_crossed_jungle_cream_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:36 -0700"
@@ -33103,6 +33146,12 @@
   "structurize:recipes/structurize.timber_frames/framed_jungle_black_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2022-04-16 14:33:42 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/crimson_post": {
+    "criteria": {
+      "has_item": "2022-05-23 17:26:36 -0700"
     },
     "done": true
   },
